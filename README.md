@@ -1,37 +1,26 @@
-# Membership Inference Attacks and Defenses on Machine Learning Models Literature
+# Model Extraction(Stealing) Attacks and Defenses on Machine Learning Models Literature
 
 A curated list of membership inference attacks and defenses papers on machine learning models.
 
 Papers are sorted by their released dates in descending order.
 
-This repository serves as a complement to the survey below.
+## Survey Papers
+| Year | Title | Venue | Paper Link | Code Link |
+|------|-------|-------|------------|-----------|
+| 2024 | A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges | arXiv | [Link](http://arxiv.org/abs/2403.04468) | |
+| 2024 | Graph neural networks: a survey on the links between privacy and security | Artificial Intelligence Review | [Link](https://doi.org/10.1007/s10462-023-10656-4) | |
+| 2024 | Trustworthy Graph Neural Networks: Aspects, Methods and Trends | Proceedings of the IEEE | [Link](http://arxiv.org/abs/2205.07424) | |
+| 2024 | Safety in Graph Machine Learning: Threats and Safeguards | arXiv | [Link](http://arxiv.org/abs/2405.11034) | |
+| 2023 | A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications | arXiv | [Link](http://arxiv.org/abs/2308.16375) | |
+| 2023 | A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability | arXiv | [Link](http://arxiv.org/abs/2204.08570) | |
+| 2023 | A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly | ScienceDirect | [Link](https://www.sciencedirect.com/science/article/pii/S266729522400014X) | |
+| 2023 | I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences | ACM Computing Surveys | [Link](https://doi.org/10.1145/3595292) | |
+| 2022 | Membership Inference Attacks on Machine Learning: A Survey | ACM Computing Surveys | [Link](https://doi.org/10.1145/3523273) | |
+| 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
+| 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
 
-[**Membership Inference Attacks on Machine Learning: A Survey**](https://arxiv.org/abs/2103.07853) **(More than 100 papers reviewed).**
 
-````bibtex
-@article{hu2022membership,
-  title={Membership inference attacks on machine learning: A survey},
-  author={Hu, Hongsheng and Salcic, Zoran and Sun, Lichao and Dobbie, Gillian and Yu, Philip S and Zhang, Xuyun},
-  journal={ACM Computing Surveys (CSUR)},
-  volume={54},
-  number={11s},
-  pages={1--37},
-  year={2022},
-  publisher={ACM New York, NY}
-}
-````
-
-If you feel this repository is helpful, please cite the survey above.
-
-## How to Search?
-Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
-
-## Quick Links
-**Attack papers sorted by year:** | [2024](#attack-papers-2024) |[2023](#attack-papers-2023) |[2022](#attack-papers-2022) |[2021](#attack-papers-2021) | [2020](#attack-papers-2020-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2017](#attack-papers-2017-back-to-top) |
-
-**Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) |[2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) | [2020](#defense-papers-2020-back-to-top) | [2019](#defense-papers-2019-back-to-top) | [2018](#defense-papers-2018-back-to-top) |
-
-## Membership Inference Attack
+## Model Extraction Attack
 ### Attack Papers 2024
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
