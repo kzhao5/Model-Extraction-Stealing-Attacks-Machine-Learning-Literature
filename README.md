@@ -74,9 +74,9 @@ Papers are sorted by their released dates in descending order.
 | 2024 | COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability | Large Language Models | arXiv | [Link](http://arxiv.org/abs/2402.08679) | |
 | 2024 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Text-to-Image Models | arXiv | [Link](http://arxiv.org/abs/2302.09923) | |
 | 2024 | An Empirical Evaluation of the Data Leakage in Federated Graph Learning | Graph Neural Networks | IEEE Transactions on Network Science and Engineering | [Paper](https://ieeexplore.ieee.org/document/10288405) | |
-| 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | Knowledge Graphs | arXiv | [Paper](http://arxiv.org/abs/2405.04753) | |
-| 2024 | Adversarial Attacks on Fairness of Graph Neural Networks | Graph Neural Networks | arXiv | [Paper](http://arxiv.org/abs/2310.13822) | |
-| 2024 | Unveiling Memorization in Code Models | Code Models | ICSE | [Paper](http://arxiv.org/abs/2308.09932) | |
+| 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | Knowledge Graphs | arXiv | [Link](http://arxiv.org/abs/2405.04753) | |
+| 2024 | Adversarial Attacks on Fairness of Graph Neural Networks | Graph Neural Networks | arXiv | [Link](http://arxiv.org/abs/2310.13822) | |
+| 2024 | Unveiling Memorization in Code Models | Code Models | ICSE | [Link](http://arxiv.org/abs/2308.09932) | |
 
 ### 2023
 
@@ -96,11 +96,11 @@ Papers are sorted by their released dates in descending order.
 | 2023 | Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering | Machine Learning Models | IEEE IoT Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10214537) | |
 | 2023 | DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/10007048) | |
 | 2023 | Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks | Large Language Models | arXiv | [Paper](http://arxiv.org/abs/2309.17410) | |
-| 2023 | A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer | Transformer Models | arXiv | [Paper](http://arxiv.org/abs/2311.13624) | |
-| 2023 | When the Curious Abandon Honesty: Federated Learning Is Not Private | Federated Learning Models | IEEE European Symposium on Security and Privacy (EuroS&P) | [Paper](https://ieeexplore.ieee.org/abstract/document/10190537) | |
-| 2023 | Making Watermark Survive Model Extraction Attacks in Graph Neural Networks | Graph Neural Networks | Unknown | | |
-| 2023 | A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots | Machine Learning Models | arXiv | [Paper](http://arxiv.org/abs/2302.11982) | |
-| 2023 | Private Graph Extraction via Feature Explanations | Graph Neural Networks | Proceedings on Privacy Enhancing Technologies | [Paper](http://arxiv.org/abs/2206.14724) | |
+| 2023 | A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer | Transformer Models | arXiv | [Link](http://arxiv.org/abs/2311.13624) | |
+| 2023 | When the Curious Abandon Honesty: Federated Learning Is Not Private | Federated Learning Models | IEEE European Symposium on Security and Privacy (EuroS&P) | [Link](https://ieeexplore.ieee.org/abstract/document/10190537) | |
+| 2023 | Making Watermark Survive Model Extraction Attacks in Graph Neural Networks | Graph Neural Networks |  IEEE International Conference on Communications | [Link](https://ieeexplore.ieee.org/document/10278974)| |
+| 2023 | A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2302.11982) | |
+| 2023 | Private Graph Extraction via Feature Explanations | Graph Neural Networks | Proceedings on Privacy Enhancing Technologies | [Link](http://arxiv.org/abs/2206.14724) | |
 
 ### 2022
 
@@ -128,10 +128,10 @@ Papers are sorted by their released dates in descending order.
 | 2022 | Demystifying Arch-hints for Model Extraction: An Attack in Unified Memory System | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2208.13720) | |
 | 2022 | SNIFF: Reverse Engineering of Neural Networks With Fault Attacks | Neural Networks | IEEE Transactions on Reliability | [Link](https://ieeexplore.ieee.org/document/9530205) | |
 | 2022 | High-Fidelity Model Extraction Attacks via Remote Power Monitors | Machine Learning Models | AICAS | [Link](https://ieeexplore.ieee.org/document/9869973) | |
-| 2022 | User-Level Label Leakage from Gradients in Federated Learning | Federated Learning Models | arXiv | [Paper](http://arxiv.org/abs/2105.09369) | |
-| 2022 | Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs | NLP Models | arXiv | [Paper](http://arxiv.org/abs/2108.13873) | |
-| 2022 | Effect Verification of a Feature Extraction Method Based on Graph Convolutional Networks | Graph Convolutional Networks | International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM) | [Paper](https://ieeexplore.ieee.org/document/9955218) | |
-| 2022 | Towards Extracting Graph Neural Network Models via Prediction Queries (Student Abstract) | Graph Neural Networks | Proceedings of the AAAI Conference on Artificial Intelligence | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17959) | |
+| 2022 | User-Level Label Leakage from Gradients in Federated Learning | Federated Learning Models | arXiv | [Link](http://arxiv.org/abs/2105.09369) | |
+| 2022 | Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs | NLP Models | arXiv | [Link](http://arxiv.org/abs/2108.13873) | |
+| 2022 | Effect Verification of a Feature Extraction Method Based on Graph Convolutional Networks | Graph Convolutional Networks | International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM) | [Link](https://ieeexplore.ieee.org/document/9955218) | |
+| 2022 | Towards Extracting Graph Neural Network Models via Prediction Queries (Student Abstract) | Graph Neural Networks | Proceedings of the AAAI Conference on Artificial Intelligence | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17959) | |
 
 ### 2021
 
@@ -292,7 +292,7 @@ Papers are sorted by their released dates in descending order.
 | 2023 | Deep Neural Network Watermarking against Model Extraction Attack | Deep Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3581783.3612515) | |
 | 2023 | Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders | Encoder Models | NeurIPS | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad1efab57a04d93f097e7fbb2d4fc054-Abstract-Conference.html) | |
 | 2023 | Categorical Inference Poisoning: Verifiable Defense Against Black-Box DNN Model Stealing Without Constraining Surrogate Data and Query Times | Deep Neural Networks | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10042038) | |
-| 2023 | {GAP}: Differentially Private Graph Neural Networks with Aggregation Perturbation | Graph Neural Networks | USENIX Security Symposium | [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh) | |
+| 2023 | {GAP}: Differentially Private Graph Neural Networks with Aggregation Perturbation | Graph Neural Networks | USENIX Security Symposium | [Link](https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh) | |
 
 ### 2022
 
@@ -317,7 +317,7 @@ Papers are sorted by their released dates in descending order.
 | 2021 | Entangled Watermarks as a Defense against Model Extraction | Machine Learning Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/jia) | |
 | 2021 | Stateful Detection of Model Extraction Attacks | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2107.05166) | |
 | 2021 | NeurObfuscator: A Full-stack Obfuscation Tool to Mitigate Neural Architecture Stealing | Neural Networks | HOST | [Link](https://ieeexplore.ieee.org/abstract/document/9702279) | |
-| 2021 | DAS-AST: Defending Against Model Stealing Attacks Based on Adaptive Softmax Transformation | Machine Learning Models | ISC | | |
+| 2021 | DAS-AST: Defending Against Model Stealing Attacks Based on Adaptive Softmax Transformation | Machine Learning Models | ISC | [Link](https://dl.acm.org/doi/abs/10.1007/978-3-030-71852-7_2) | |
 | 2021 | DAWN: Dynamic Adversarial Watermarking of Neural Networks | Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3474085.3475591) | |
 
 ### 2020
