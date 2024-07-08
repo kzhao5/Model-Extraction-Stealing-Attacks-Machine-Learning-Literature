@@ -188,6 +188,8 @@ Papers are sorted by their released dates in descending order.
 | 2020 | Model extraction from counterfactual explanations | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2009.01884) | |
 | 2020 | GANRED: GAN-based Reverse Engineering of DNNs via Cache Side-Channel | Deep Neural Networks | CCSW | [Link](https://doi.org/10.1145/3411495.3421356) | |
 | 2020 | DeepEM: Deep Neural Networks Model Recovery through EM Side-Channel Information Leakage | Deep Neural Networks | HOST | [Link](https://ieeexplore.ieee.org/document/9300274) | |
+| 2020 | A Framework for Evaluating Gradient Leakage Attacks in Federated Learning | Federated Learning Models | arXiv | [Link](http://arxiv.org/abs/2004.10397) | |
+| 2020 | Quantifying (Hyper) Parameter Leakage in Machine Learning | Machine Learning Models | IEEE International Conference on Multimedia Big Data (BigMM) | [Link](https://ieeexplore.ieee.org/document/9232549) | |
 
 ### 2019
 
@@ -217,6 +219,9 @@ Papers are sorted by their released dates in descending order.
 | 2018 | Generative Adversarial Networks for Black-Box API Attacks with Limited Training Data | Machine Learning APIs | ISSPIT | [Link](https://ieeexplore.ieee.org/document/8642683) | |
 | 2018 | Towards Reverse-Engineering Black-Box Neural Networks | Neural Networks | arXiv | [Link](http://arxiv.org/abs/1711.01768) | |
 | 2018 | Reverse engineering convolutional neural networks through side-channel information leaks | CNNs | DAC | [Link](https://doi.org/10.1145/3195970.3196105) | |
+| 2018 | Model Extraction and Active Learning | Machine Learning Models | arXiv | [Link](https://www.semanticscholar.org/paper/Model-Extraction-and-Active-Learning-Chandrasekaran-Chaudhuri/2cb2f7c824a089422ac210b3f77d2e078b017f66) | |
+| 2018 | Adversarial Attacks on Neural Networks for Graph Data | Graph Neural Networks | Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining | [Link](https://dl.acm.org/doi/10.1145/3219819.3220078) |
+
 
 ### 2017
 
@@ -344,3 +349,4 @@ Papers are sorted by their released dates in descending order.
 | Year | Title | Target Model | Venue | Paper Link | Code Link |
 |------|-------|--------------|-------|------------|-----------|
 | 2018 | Model Extraction Warning in MLaaS Paradigm | Machine Learning Models | ACSAC | [Link](https://doi.org/10.1145/3274694.3274740) | |
+| 2018 | Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks | Deep Neural Networks | Research in Attacks, Intrusions, and Defenses | | |
