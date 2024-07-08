@@ -1,6 +1,6 @@
 # Model Extraction(Stealing) Attacks and Defenses on Machine Learning Models Literature
 
-A curated list of membership inference attacks and defenses papers on machine learning models.
+This repository contains a curated list of research papers on model extraction attacks and defenses in machine learning, organized by year of publication.
 
 Papers are sorted by their released dates in descending order.
 
@@ -21,9 +21,6 @@ Papers are sorted by their released dates in descending order.
 
 
 ## Model Extraction Attack
-
-
-This repository contains a curated list of research papers on model extraction attacks in machine learning, organized by year of publication.
 
 ### Table of Contents
 
@@ -223,88 +220,108 @@ This repository contains a curated list of research papers on model extraction a
 |------|-------|--------------|-------|------------|-----------|
 | 2014 | Adding Robustness to Support Vector Machines Against Adversarial Reverse Engineering | Support Vector Machines | CIKM | [Link](https://doi.org/10.1145/2661829.2662047) | |
 
-## Membership Inference Defense
-### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **Mitigating Membership Inference Attacks via Weighted Smoothing** | Black-box | Classification Models | ACSAC | [Link](https://dl.acm.org/doi/abs/10.1145/3627106.3627189) | [Link](https://github.com/BennyTMT/weighted-smoothing) |
-| 2023 | **MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2311.00919) | |
-| 2023 | **Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction** | Black-box | Classification Models | NDSS | [Link](https://arxiv.org/abs/2307.01610) | [Link](https://github.com/DependableSystemsLab/MIA_defense_HAMP) |
-| 2023 | **LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks** | White-box; Black-box | Classification Models | Asia CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3579856.3590334) | [Link](https://github.com/UQ-Trust-Lab/LoDen) |
+## Model Extraction Defense
 
-### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2022 | **Defense against membership inference attack in graph neural networks through graph perturbation** | White-box | Graph Embedding Models | Int. J. Inf. Secur. | [Link](https://link.springer.com/article/10.1007/s10207-022-00646-y) | |
-| 2022 | **Provable Membership Inference Privacy** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2211.06582) | |
-| 2022 | **Repeated Knowledge Distillation with Confidence Masking to Mitigate Membership Inference Attacks** | White-box; Black-box | Classification Models | AISec | [Link](https://dl.acm.org/doi/10.1145/3560830.3563721) | |
-| 2022 | **NeuGuard: Lightweight Neuron-Guided Defense against Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2206.05565) | |
-| 2022 | **Defending against Membership Inference Attacks with High Utility by GAN** | White-box; Black-box | Classification Models | TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9773984) | | 
-| 2022 | **RelaxLoss: Defending Membership Inference Attacks without Losing Utility** | White-box; Black-box | Classification Models | ICLR | [Link](https://openreview.net/forum?id=FEDfGWVZYIn) | [Link](https://github.com/DingfanChen/RelaxLoss) |
-| 2022 | **Assessing Differentially Private Variational Autoencoders under Membership Inference** | Black-box | Generative Models | Arxiv | [Link](https://arxiv.org/abs/2204.07877) | [Link](https://github.com/SAP-samples/security-research-vae-dp-mia) |
-| 2022 | **Membership Privacy Protection for Image Translation Models via Adversarial Knowledge Distillation** | Black-box | Image Translation Models | Arxiv | [Link](https://arxiv.org/abs/2203.05212) | |
-| 2022 | **MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2203.00915) | |
-| 2022 | **Privacy-preserving Generative Framework Against Membership Inference Attacks** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2202.05469) | |
+### Table of Contents
 
-### Defense Papers 2021 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2021 | **Enhanced Mixup Training: a Defense Method Against Membership Inference Attack** | Black-box | Classification Models | ISPEC | [Link](https://link.springer.com/chapter/10.1007/978-3-030-93206-0_3) | |
-| 2021 | **Mitigating Membership Inference Attacks by Self-Distillation Through a Novel Ensemble Architecture** | White-box; Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2110.08324) | |
-| 2021 | **On the privacy-utility trade-off in differentially private hierarchical text classification** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2103.02895) | |
-| 2021 | **MLCapsule: Guarded Offline Deployment of Machine Learning as a Service** | Black-box | Classification Models | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2021W/TCV/html/Hanzlik_MLCapsule_Guarded_Offline_Deployment_of_Machine_Learning_as_a_Service_CVPRW_2021_paper.html) | |
-| 2021 | **Comparing Local and Central Differential Privacy Using Membership Inference Attacks** | White-box | Classification Models | DBSec | [Link](https://link.springer.com/chapter/10.1007/978-3-030-81242-3_2) | [Link](https://github.com/SAP-samples/security-research-membership-inference-and-differential-privacy)|
-| 2021 | **Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning** | White-box | Classification Models | S&P | [Link](https://conferences.computer.org/sp/pdfs/sp/2021/893400a866.pdf) | |
-| 2021 | **When Does Data Augmentation Help With Membership Inference Attacks?** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v139/kaya21a.html) | [Link](https://github.com/yigitcankaya/augmentation_mia) |
-| 2021 | **Against Membership Inference Attack: Pruning is All You Need** | Black-box | Classification Models | IJCAI | [Link](https://www.ijcai.org/proceedings/2021/0432.pdf) | |
-| 2021 | **Membership Privacy for Machine Learning Models Through Knowledge Transfer** | White-box; Black-box | Classification Models | AAAI | [Link](https://www.aaai.org/AAAI21Papers/AAAI-8428.ShejwalkarV.pdf) | |
-| 2021 | **Quantifying Membership Privacy via Information Leakage** | Black-box | Classification Models | IEEE Trans. Inf. Forensics Secur. | [Link](https://ieeexplore.ieee.org/abstract/document/9406982) | |
-| 2021 | **Membership Inference Attacks and Defenses in Classification Models** | Black-box | Classification Models | CODASPY | [Link](https://dl.acm.org/doi/abs/10.1145/3422337.3447836?casa_token=OgVGtSGexk4AAAAA:OL1PF_yI4hvGMZRuAg4AmHdGsy8kNbvNDMDCK4Bf-42sGR4PJ0YYdBKwMKaAmUbplZecpyivNS0OmA) | |
-| 2021 | **Digestive Neural Networks: A Novel Defense Strategy Against Inference Attacks in Federated Learning** | White-box | Classification Models |  Computers & Security | [Link](https://www.sciencedirect.com/science/article/pii/S0167404821002029) | |
-| 2021 | **Resisting Membership Inference Attacks through Knowledge Distillation** | Black-box | Classification Models | Neurocomputing | [Link](https://www.sciencedirect.com/science/article/pii/S0925231221006329?casa_token=c1IzeuYRtpUAAAAA:0wsZqqvYC_MDDxxmJiX6ukGXUz1ZWeXrrs3ZM7HNS22peJvUcI-ED4PuN8RzYTJyMzsTIH-dIvY) | |
-| 2021 | **privGAN: Protecting GANs from membership inference attacks at low cost to utility** | White-box | Generative Models | PoPETs| [Link](https://petsymposium.org/2021/files/papers/issue3/popets-2021-0041.pdf) | |
-| 2021 | **Generating Private Data Surrogates for Vision Related Tasks** | White-box | Generative Models | ICPR | [Link](https://ieeexplore.ieee.org/abstract/document/9413067?casa_token=-TsmURst7cIAAAAA:7JmyRDPMEqGQumYXCRMMDnqsfw_bQrIbl8Om7GvjU07Py58rR7exbhl6kX3ChllJaLp5hrMXXg) | |
-| 2021 | **Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence** | Black-box | Classification Models | IEEE Network | [Link](https://ieeexplore.ieee.org/abstract/document/9355044?casa_token=kRgvvXyazeEAAAAA:op3d_NR3gAdao2j_6pThCiCJYF8YzuAY3wYYPgKfsTRYNZajUjHiF76hiaeBcaqynjDg723Wgg) | |
-| 2021 | **PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks** | White-box | Generative Models | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467445?casa_token=nrRQY7saHGMAAAAA:Hm5z6sD94Titemm-rXcuZ9SWCvxlmuYxYIzMzw9szKC5zo2ZKf5X_RJ0mK5qMfetLCdPG6LzaAnOTQ) | [Link](https://github.com/shilab/PAR-GAN)|
-| 2021 | **Defending Medical Image Diagnostics against Privacy Attacks using Generative Methods: Application to Retinal Diagnostics** | Black-box | Classification Models | MICCAI Workshop | [Link](https://arxiv.org/abs/2103.03078) | |
-| 2021 | **Defending Privacy Against More Knowledgeable Membership Inference Attackers** | White-box; Black-box | Classification Models | KDD | [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467444) | [Link](https://github.com/yyinfaramita/Crystal) |
-   
-### Defense Papers 2020 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2020 | **Privacy for All: Demystify Vulnerability Disparity of Differential Privacy against Membership Inference Attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2001.08855) | |
-| 2020 | **Privacy for All: Demystify Vulnerability Disparity of Differential Privacy against Membership Inference Attack**  | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2001.08855) | |
-| 2020 | **Differential Privacy Protection Against Membership Inference Attack on Machine Learning for Genomic Data** | Black-box | Classification Models | Biocomputing | [Link](https://www.worldscientific.com/doi/abs/10.1142/9789811232701_0003) | |
-| 2020 | **A Secure Federated Learning Framework for 5G Networks** | White-box | Classification Models | IEEE Wireless Communications | [Link](https://ieeexplore.ieee.org/abstract/document/9170265?casa_token=mQO49_zNRZ8AAAAA:WY1Jk5fA6olK16zTOpOkE8pHUkGWMA7wvStZIAUwYTHzZ0hSeFUW_-xY2SwNl7usgf4xFQY7OQ) | |
-| 2020 | **Auditing Differentially Private Machine Learning: How Private is Private SGD?** | Black-box | Classification Models | NeurIPS | [Link](https://proceedings.neurips.cc/paper/2020/hash/fc4ddc15f9f4b4b06ef7844d6bb53abf-Abstract.html) | [Link](https://github.com/jagielski/auditing-dpsgd) |
-| 2020 | **Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2009.03561) | |
-| 2020 | **Defending Model Inversion and Membership Inference Attacks via Prediction Purification** | Black-box | Classification | Arxiv | [Link](https://arxiv.org/abs/2005.03915) | | 
-| 2020 | **Alleviating Privacy Attacks via Causal Learning** | Black-box | Classification Models | ICML | [Link](http://proceedings.mlr.press/v119/tople20a.html) | [Link](https://github.com/microsoft/robustdg) |
-| 2020 | **On the Effectiveness of Regularization Against Membership Inference Attacks** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2006.05336) | |
-| 2020 | **Characterizing Membership Privacy in Stochastic Gradient Langevin Dynamics** | Black-box | Classification Models | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/6107) | |
-| 2020 | **Differentially Private Learning Does Not Bound Membership Inference** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2010.12112) | |
-| 2020 | **Privacy-Preserving in Defending against Membership Inference Attacks** | Black-box | Classification Models | PPMLP | [Link](https://dl.acm.org/doi/abs/10.1145/3411501.3419428?casa_token=ndUU_v6d6HwAAAAA:-dFHWyvi34EVE97Dl8J-k-hoTwqTu6Z8I6Lz5IBYpMss_ogfP0OeP8-fLRxQRhfdy6B0AluwZ_XlPw) | |
+- [2024](#2024)
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
 
+### 2024
 
-### Defense Papers 2019 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2019 | **Evaluating Differentially Private Machine Learning in Practice** | Black-box | Classification Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity19/presentation/jayaraman) | [Link](https://github.com/bargavj/EvaluatingDPML) |
-| 2019 | **MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3319535.3363201) | [Link](https://github.com/jjy1994/MemGuard) |
-| 2019 | **Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection** | White-box; Black-box | Generative Models | NeurIPS | [Link](https://papers.nips.cc/paper/2019/hash/47d1e990583c9c67424d369f3414728e-Abstract.html) | |
-| 2019 | **Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1912.11279) | |
-| 2019 | **ML Defense: Against Prediction API Threats in Cloud-Based Machine Learning Service** | Black-box | Classification Models | IWQoS | [Link](https://dl.acm.org/doi/abs/10.1145/3326285.3329042) |  |
-| 2019 | **Effects of Differential Privacy and Data Skewness on Membership Inference Vulnerability** | Black-box | Classification Models | TPS-ISA | [Link](https://ieeexplore.ieee.org/document/9014384) | | 
-| 2019 | **Generating Artificial Data for Private Deep Learning** | Black-box | Generative Models | PAL | [Link](https://infoscience.epfl.ch/record/269025) | |
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2024 | Defense Against Model Extraction Attacks on Recommender Systems | Recommender Systems | WSDM | [Link](https://dl.acm.org/doi/10.1145/3616855.3635751) | |
+| 2024 | GNNGuard: A Fingerprinting Framework for Verifying Ownerships of Graph Neural Networks | Graph Neural Networks | OpenReview | [Link](https://openreview.net/forum?id=RNl51vzvDE) | |
+| 2024 | Privacy-Enhanced Graph Neural Network for Decentralized Local Graphs | Graph Neural Networks | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10305592) | |
+| 2024 | GENIE: Watermarking Graph Neural Networks for Link Prediction | Graph Neural Networks | arXiv | [Link](http://arxiv.org/abs/2406.04805) | |
+| 2024 | PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection | Graph Neural Networks | arXiv | [Link](http://arxiv.org/abs/2402.04435) | |
+| 2024 | Inversion-Guided Defense: Detecting Model Stealing Attacks by Output Inverting | Machine Learning Models | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10466709) | |
+| 2024 | Defending against model extraction attacks with OOD feature learning and decision boundary confusion | Machine Learning Models | Computers & Security | [Link](https://www.sciencedirect.com/science/article/pii/S016740482300473X) | |
+| 2024 | SAME: Sample Reconstruction against Model Extraction Attacks | Machine Learning Models | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29974) | |
+| 2024 | Model Stealing Detection for IoT Services Based on Multi-Dimensional Features | IoT Models | IEEE IoT Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10510375) | |
+| 2024 | MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction | Deep Learning Models | arXiv | [Link](http://arxiv.org/abs/2403.18580) | |
+| 2024 | Adversarial Sparse Teacher: Defense Against Distillation-Based Model Stealing Attacks Using Adversarial Examples | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2403.05181) | |
+| 2024 | Construct a Secure CNN Against Gradient Inversion Attack | CNN | PAKDD | | |
+| 2024 | A Comprehensive Defense Framework Against Model Extraction Attacks | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/10080996) | |
+| 2024 | HODA: Hardness-Oriented Detection of Model Extraction Attacks | Machine Learning Models | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10266376) | |
+| 2024 | Adaptive and robust watermark against model extraction attack | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2405.02365) | |
+| 2024 | Defense against Model Extraction Attack by Bayesian Active Watermarking | Machine Learning Models | OpenReview | [Link](https://openreview.net/forum?id=EFtNP211X3) | |
+| 2024 | Poisoning-Free Defense Against Black-Box Model Extraction | Machine Learning Models | ICASSP | [Link](https://ieeexplore.ieee.org/abstract/document/10447550) | |
+| 2024 | Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2404.13518) | |
+| 2024 | Efficient Model Stealing Defense with Noise Transition Matrix | Machine Learning Models | CVPR | [Link](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Efficient_Model_Stealing_Defense_with_Noise_Transition_Matrix_CVPR_2024_paper.html) | |
+| 2024 | Making models more secure: An efficient model stealing detection method | Machine Learning Models | Computers and Electrical Engineering | [Link](https://www.sciencedirect.com/science/article/pii/S0045790624001940) | |
+| 2024 | TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment | Transformer Models | arXiv | [Link](http://arxiv.org/abs/2404.11121) | |
+| 2024 | Not Just Change the Labels, Learn the Features: Watermarking Deep Neural Networks with Multi-View Data | Deep Neural Networks | arXiv | [Link](http://arxiv.org/abs/2403.10663) | |
+| 2024 | QUEEN: Query Unlearning against Model Extraction | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2407.01251) | |
+| 2024 | Bident Structure for Neural Network Model Protection | Neural Networks | SCITEPRESS | [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0008923403770384) | |
 
+### 2023
 
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2023 | GrOVe: Ownership Verification of Graph Neural Networks using Embeddings | Graph Neural Networks | arXiv | [Link](http://arxiv.org/abs/2304.08566) | |
+| 2023 | Making Watermark Survive Model Extraction Attacks in Graph Neural Networks | Graph Neural Networks | | | |
+| 2023 | Exposing Model Theft: A Robust and Transferable Watermark for Thwarting Model Extraction Attacks | Machine Learning Models | CIKM | [Link](https://doi.org/10.1145/3583780.3615211) | |
+| 2023 | Defending against model extraction attacks with physical unclonable function | Machine Learning Models | Information Sciences | [Link](https://www.sciencedirect.com/science/article/pii/S0020025523001147) | |
+| 2023 | Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks | Deep Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3581783.3612092) | |
+| 2023 | APMSA: Adversarial Perturbation Against Model Stealing Attacks | Machine Learning Models | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10049136) | |
+| 2023 | Deep Neural Network Watermarking against Model Extraction Attack | Deep Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3581783.3612515) | |
+| 2023 | Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders | Encoder Models | NeurIPS | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad1efab57a04d93f097e7fbb2d4fc054-Abstract-Conference.html) | |
+| 2023 | Categorical Inference Poisoning: Verifiable Defense Against Black-Box DNN Model Stealing Without Constraining Surrogate Data and Query Times | Deep Neural Networks | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10042038) | |
 
-### Defense Papers 2018 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
-| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
-|-------|--------|--------|--------|-----------|------------|---------------|
-| 2018 | **Machine Learning with Membership Privacy using Adversarial Regularization** | Black-box | Classification Models | CCS | [Link](https://dl.acm.org/doi/abs/10.1145/3243734.3243855) | [Link](https://github.com/SPIN-UMass/ML-Privacy-Regulization) |
-| 2018 | **Privacy-preserving Machine Learning through Data Obfuscation** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1807.01860) | |
-| 2018 | **Differentially Private Data Generative Models** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/1812.02274) | |
-| 2018 | **Membership Inference Attack against Differentially Private Deep Learning Model** | Black-box | Classification Models | Transactions on Data Privacy | [Link](http://www.tdp.cat/issues16/tdp.a289a17.pdf) | |
+### 2022
 
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2022 | CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks | Text Generation Models | arXiv | [Link](http://arxiv.org/abs/2209.08773) | |
+| 2022 | Defending against Model Stealing via Verifying Embedded External Features | Machine Learning Models | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20036) | |
+| 2022 | Monitoring-Based Differential Privacy Mechanism Against Query Flooding-Based Model Extraction Attack | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9389670) | |
+| 2022 | DynaMarks: Defending Against Deep Learning Model Extraction Using Dynamic Watermarking | Deep Learning Models | arXiv | [Link](http://arxiv.org/abs/2207.13321) | |
+| 2022 | SeInspect: Defending Model Stealing via Heterogeneous Semantic Inspection | Machine Learning Models | ESORICS | | |
+| 2022 | Model Stealing Defense against Exploiting Information Leak through the Interpretation of Deep Neural Nets | Deep Neural Networks | IJCAI | [Link](https://www.ijcai.org/proceedings/2022/100) | |
+| 2022 | How to Steer Your Adversary: Targeted and Efficient Model Stealing Defenses with Gradient Redirection | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2206.14157) | |
 
+### 2021
+
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2021 | Watermarking Graph Neural Networks by Random Graphs | Graph Neural Networks | ISDFS | [Link](http://arxiv.org/abs/2011.00512) | |
+| 2021 | BODAME: Bilevel Optimization for Defense Against Model Extraction | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2103.06797) | |
+| 2021 | A protection method of trained CNN model with a secret key from unauthorized access | CNN | APSIPA TSIP | [Link](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/protection-method-of-trained-cnn-model-with-a-secret-key-from-unauthorized-access/9D3C17F7C8F42945A6D1577C86ACFFF8) | |
+| 2021 | SEAT: Similarity Encoder by Adversarial Training for Detecting Model Extraction Attack Queries | Machine Learning Models | AISec | [Link](https://doi.org/10.1145/3474369.3486863) | |
+| 2021 | Entangled Watermarks as a Defense against Model Extraction | Machine Learning Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/jia) | |
+| 2021 | Stateful Detection of Model Extraction Attacks | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2107.05166) | |
+| 2021 | NeurObfuscator: A Full-stack Obfuscation Tool to Mitigate Neural Architecture Stealing | Neural Networks | HOST | [Link](https://ieeexplore.ieee.org/abstract/document/9702279) | |
+| 2021 | DAS-AST: Defending Against Model Stealing Attacks Based on Adaptive Softmax Transformation | Machine Learning Models | ISC | | |
+| 2021 | DAWN: Dynamic Adversarial Watermarking of Neural Networks | Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3474085.3475591) | |
+
+### 2020
+
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2020 | Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks | Deep Neural Networks | arXiv | [Link](http://arxiv.org/abs/1906.10908) | |
+| 2020 | Perturbing Inputs to Prevent Model Stealing | Machine Learning Models | CNS | [Link](https://ieeexplore.ieee.org/document/9162336) | |
+| 2020 | Defending Against Model Stealing Attacks With Adaptive Misinformation | Machine Learning Models | CVPR | [Link](https://ieeexplore.ieee.org/document/9157021) | |
+| 2020 | Protecting DNNs from Theft using an Ensemble of Diverse Models | Deep Neural Networks | OpenReview | [Link](https://openreview.net/forum?id=LucJxySuJcE) | |
+| 2020 | A Protection against the Extraction of Neural Network Models | Neural Networks | arXiv | [Link](http://arxiv.org/abs/2005.12782) | |
+| 2020 | Preventing Neural Network Weight Stealing via Network Obfuscation | Neural Networks | Intelligent Computing | | |
+
+### 2019
+
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2019 | Defending Against Neural Network Model Stealing Attacks Using Deceptive Perturbations | Neural Networks | SPW | [Link](https://ieeexplore.ieee.org/document/8844598) | |
+| 2019 | PRADA: Protecting Against DNN Model Stealing Attacks | Deep Neural Networks | EuroS&P | [Link](https://ieeexplore.ieee.org/abstract/document/8806737) | |
+| 2019 | BDPL: A Boundary Differentially Private Layer Against Machine Learning Model Extraction Attacks | Machine Learning Models | ESORICS | | |
+
+### 2018
+
+| Year | Title | Target Model | Venue | Paper Link | Code Link |
+|------|-------|--------------|-------|------------|-----------|
+| 2018 | Model Extraction Warning in MLaaS Paradigm | Machine Learning Models | ACSAC | [Link](https://doi.org/10.1145/3274694.3274740) | |
