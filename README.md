@@ -11,7 +11,7 @@ Papers are sorted by their released dates in descending order.
 | 2024 | Graph neural networks: a survey on the links between privacy and security | Artificial Intelligence Review | [Link](https://doi.org/10.1007/s10462-023-10656-4) | |
 | 2024 | Trustworthy Graph Neural Networks: Aspects, Methods and Trends | Proceedings of the IEEE | [Link](http://arxiv.org/abs/2205.07424) | |
 | 2024 | Safety in Graph Machine Learning: Threats and Safeguards | arXiv | [Link](http://arxiv.org/abs/2405.11034) | |
-| 2024 | SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice | USENIX | https://www.usenix.org/conference/usenixsecurity24/presentation/nayan | |
+| 2024 | SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) | |
 | 2023 | A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications | arXiv | [Link](http://arxiv.org/abs/2308.16375) | |
 | 2023 | A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability | arXiv | [Link](http://arxiv.org/abs/2204.08570) | |
 | 2023 | A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly | ScienceDirect | [Link](https://www.sciencedirect.com/science/article/pii/S266729522400014X) | |
