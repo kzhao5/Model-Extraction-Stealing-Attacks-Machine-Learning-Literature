@@ -230,7 +230,7 @@ Papers are sorted by their released dates in descending order.
 | 2018 | Towards Reverse-Engineering Black-Box Neural Networks | Neural Networks | arXiv | [Link](http://arxiv.org/abs/1711.01768) | |
 | 2018 | Reverse engineering convolutional neural networks through side-channel information leaks | CNNs | DAC | [Link](https://doi.org/10.1145/3195970.3196105) | |
 | 2018 | Model Extraction and Active Learning | Machine Learning Models | arXiv | [Link](https://www.semanticscholar.org/paper/Model-Extraction-and-Active-Learning-Chandrasekaran-Chaudhuri/2cb2f7c824a089422ac210b3f77d2e078b017f66) | |
-| 2018 | Adversarial Attacks on Neural Networks for Graph Data | Graph Neural Networks | Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining | [Link](https://dl.acm.org/doi/10.1145/3219819.3220078) |
+| 2018 | Adversarial Attacks on Neural Networks for Graph Data | Graph Neural Networks | SIGKDD  | [Link](https://dl.acm.org/doi/10.1145/3219819.3220078) |
 
 
 ### 2017
