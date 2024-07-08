@@ -23,6 +23,7 @@ Papers are sorted by their released dates in descending order.
 | 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
 | 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
 | 2021 | A Critical Overview of Privacy in Machine Learning | IEEE Security & Privacy | [Link](https://ieeexplore.ieee.org/abstract/document/9433648?casa_token=3sYP7jF9ZSsAAAAA:AsdWPPO6SrWSz_6WgXoB-EIaaqbRSvZBdPyWICAXqmykYteyt-DRplHFXvmedAOQpfboF60T) | |
+| 2021 | Machine Learning–based Cyber Attacks Targeting on Controlled Information: A Survey | Various ML Models | ACM Computing Surveys | [Link](https://doi.org/10.1145/3465171) | |
 
 ## Model Extraction Attack
 
@@ -96,12 +97,13 @@ Papers are sorted by their released dates in descending order.
 | 2023 | AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models | White-Box Models | arXiv | [Link](http://arxiv.org/abs/2302.02162) | |
 | 2023 | Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering | Machine Learning Models | IEEE IoT Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10214537) | |
 | 2023 | DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/10007048) | |
-| 2023 | Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks | Large Language Models | arXiv | [Paper](http://arxiv.org/abs/2309.17410) | |
+| 2023 | Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks | Large Language Models | arXiv | [Link](http://arxiv.org/abs/2309.17410) | |
 | 2023 | A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer | Transformer Models | arXiv | [Link](http://arxiv.org/abs/2311.13624) | |
 | 2023 | When the Curious Abandon Honesty: Federated Learning Is Not Private | Federated Learning Models | IEEE European Symposium on Security and Privacy (EuroS&P) | [Link](https://ieeexplore.ieee.org/abstract/document/10190537) | |
 | 2023 | Making Watermark Survive Model Extraction Attacks in Graph Neural Networks | Graph Neural Networks |  IEEE International Conference on Communications | [Link](https://ieeexplore.ieee.org/document/10278974)| |
 | 2023 | A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2302.11982) | |
 | 2023 | Private Graph Extraction via Feature Explanations | Graph Neural Networks | Proceedings on Privacy Enhancing Technologies | [Link](http://arxiv.org/abs/2206.14724) | |
+| 2023 | Extracting Privacy-Preserving Subgraphs in Federated Graph Learning using Information Bottleneck | Federated Graph Models | ACM Asia CCS | [Link](https://doi.org/10.1145/3579856.3595791) | |
 
 ### 2022
 
@@ -162,6 +164,8 @@ Papers are sorted by their released dates in descending order.
 | 2021 | Model Extraction and Adversarial Transferability, Your BERT is Vulnerable! | BERT | NAACL | [Link](https://aclanthology.org/2021.naacl-main.161) | |
 | 2021 | Leveraging Partial Model Extractions using Uncertainty Quantification | Machine Learning Models | CloudNet | [Link](https://ieeexplore.ieee.org/document/9657130) | |
 | 2021 | Model Extraction and Adversarial Attacks on Neural Networks Using Switching Power Information | Neural Networks | ICANN | | |
+| 2021 | Killing One Bird with Two Stones: Model Extraction and Attribute Inference Attacks against BERT-based APIs | BERT Models | arXiv | [Link](http://arxiv.org/abs/2105.10909) | |
+| 2021 | Dataset Inference: Ownership Resolution in Machine Learning | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2104.10706) | |
 
 ### 2020
 
@@ -193,6 +197,7 @@ Papers are sorted by their released dates in descending order.
 | 2020 | Quantifying (Hyper) Parameter Leakage in Machine Learning | Machine Learning Models | IEEE International Conference on Multimedia Big Data (BigMM) | [Link](https://ieeexplore.ieee.org/document/9232549) | |
 | 2020 | CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples | Deep Learning Models | NDSS | [Link](https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/) | |
 | 2020 | Stealing Black-Box Functionality Using The Deep Neural Tree Architecture | Black-Box Models | arXiv | [Link](https://arxiv.org/abs/2002.09864) | |
+| 2020 | Model Extraction Attacks and Defenses on Cloud-Based Machine Learning Models | Cloud-Based ML Models | IEEE Communications Magazine | [Link](https://ieeexplore.ieee.org/document/9311938) | |
 
 ### 2019
 
@@ -211,6 +216,7 @@ Papers are sorted by their released dates in descending order.
 | 2019 | Model-Extraction Attack Against FPGA-DNN Accelerator Utilizing Correlation Electromagnetic Analysis | DNN Accelerators | FCCM | [Link](https://ieeexplore.ieee.org/document/8735505) | |
 | 2019 | CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel | Neural Networks | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity19/presentation/batina) | |
 | 2019 | Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective | Graph Neural Networks | arXiv | [Link](https://arxiv.org/abs/1906.04214) | |
+| 2019 | Adversarial Examples on Graph Data: Deep Insights into Attack and Defense | Graph Neural Networks | arXiv | [Link](https://www.semanticscholar.org/paper/Adversarial-Examples-on-Graph-Data%3A-Deep-Insights-Wu-Wang/26a0e0d17910c6676fcfa1cebe0cb7f5cd17080c) | |
 
 ### 2018
 
@@ -234,6 +240,7 @@ Papers are sorted by their released dates in descending order.
 | 2017 | Practical Black-Box Attacks against Machine Learning | Machine Learning Models | ASIA CCS | [Link](https://dl.acm.org/doi/10.1145/3052973.3053009) | |
 | 2017 | Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models | Machine Learning Models | arXiv | [Link](https://www.semanticscholar.org/paper/Decision-Based-Adversarial-Attacks%3A-Reliable-Models-Brendel-Rauber/1b225474e7a5794f98cdfbde8b12ccbc56799409) | |
 | 2017 | How to steal a machine learning classifier with deep learning | Machine Learning Classifiers | HST | [Link](https://ieeexplore.ieee.org/document/7943475) | |
+| 2017 | Ensemble Adversarial Training: Attacks and Defenses | Machine Learning Models | arXiv | [Link](https://www.semanticscholar.org/paper/Ensemble-Adversarial-Training%3A-Attacks-and-Defenses-Tram%C3%A8r-Kurakin/136dee73f203df2f4831994bf4f0c0a4ad2e764e) | |
 
 ### 2016
 
@@ -315,6 +322,8 @@ Papers are sorted by their released dates in descending order.
 | 2022 | SeInspect: Defending Model Stealing via Heterogeneous Semantic Inspection | Machine Learning Models | ESORICS | | |
 | 2022 | Model Stealing Defense against Exploiting Information Leak through the Interpretation of Deep Neural Nets | Deep Neural Networks | IJCAI | [Link](https://www.ijcai.org/proceedings/2022/100) | |
 | 2022 | How to Steer Your Adversary: Targeted and Efficient Model Stealing Defenses with Gradient Redirection | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2206.14157) | |
+| 2022 | A Framework for Understanding Model Extraction Attack and Defense | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2206.11480) | |
+| 2022 | Increasing the Cost of Model Extraction with Calibrated Proof of Work | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2201.09243) | |
 
 ### 2021
 
@@ -340,6 +349,7 @@ Papers are sorted by their released dates in descending order.
 | 2020 | Protecting DNNs from Theft using an Ensemble of Diverse Models | Deep Neural Networks | OpenReview | [Link](https://openreview.net/forum?id=LucJxySuJcE) | |
 | 2020 | A Protection against the Extraction of Neural Network Models | Neural Networks | arXiv | [Link](http://arxiv.org/abs/2005.12782) | |
 | 2020 | Preventing Neural Network Weight Stealing via Network Obfuscation | Neural Networks | Intelligent Computing | | |
+| 2020 | Information Laundering for Model Privacy | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2009.06112) | |
 
 ### 2019
 
@@ -348,6 +358,7 @@ Papers are sorted by their released dates in descending order.
 | 2019 | Defending Against Neural Network Model Stealing Attacks Using Deceptive Perturbations | Neural Networks | SPW | [Link](https://ieeexplore.ieee.org/document/8844598) | |
 | 2019 | PRADA: Protecting Against DNN Model Stealing Attacks | Deep Neural Networks | EuroS&P | [Link](https://ieeexplore.ieee.org/abstract/document/8806737) | |
 | 2019 | BDPL: A Boundary Differentially Private Layer Against Machine Learning Model Extraction Attacks | Machine Learning Models | ESORICS | | |
+| 2019 | MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network | Social Network Models | arXiv | [Link](http://arxiv.org/abs/1905.11013) | |
 
 ### 2018
 
