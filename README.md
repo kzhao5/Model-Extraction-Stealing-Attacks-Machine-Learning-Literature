@@ -19,6 +19,7 @@ Papers are sorted by their released dates in descending order.
 | 2023 | I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences | ACM Computing Surveys | [Link](https://doi.org/10.1145/3595292) | |
 | 2023 | A Taxonomic Survey of Model Extraction Attacks | IEEE International Conference on Cyber Security and Resilience (CSR) | [Link](https://ieeexplore.ieee.org/document/10224959) | |
 | 2023 | A Survey of Privacy Attacks in Machine Learning | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3624010) | |
+| 2023 | Adversarial Attack and Defense on Graph Data: A Survey | Graph Neural Networks | IEEE Transactions on Knowledge and Data Engineering | [Paper](https://ieeexplore.ieee.org/abstract/document/9878092) | |
 | 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
 | 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
 | 2021 | A Critical Overview of Privacy in Machine Learning | IEEE Security & Privacy | [Link](https://ieeexplore.ieee.org/abstract/document/9433648?casa_token=3sYP7jF9ZSsAAAAA:AsdWPPO6SrWSz_6WgXoB-EIaaqbRSvZBdPyWICAXqmykYteyt-DRplHFXvmedAOQpfboF60T) | |
@@ -72,8 +73,10 @@ Papers are sorted by their released dates in descending order.
 | 2024 | Layer Sequence Extraction of Optimized DNNs Using Side-Channel Information Leaks | Deep Neural Networks | IEEE TCAD | [Link](https://ieeexplore.ieee.org/abstract/document/10500842) | |
 | 2024 | COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability | Large Language Models | arXiv | [Link](http://arxiv.org/abs/2402.08679) | |
 | 2024 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Text-to-Image Models | arXiv | [Link](http://arxiv.org/abs/2302.09923) | |
-| 2024 | An Empirical Evaluation of the Data Leakage in Federated Graph Learning | GNNs | IEEE Transactions on Network Science and Engineering | [Link](https://ieeexplore.ieee.org/document/10288405) | |
-| 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | LLMs | arXiv | [Link](http://arxiv.org/abs/2405.04753) | |
+| 2024 | An Empirical Evaluation of the Data Leakage in Federated Graph Learning | Graph Neural Networks | IEEE Transactions on Network Science and Engineering | [Paper](https://ieeexplore.ieee.org/document/10288405) | |
+| 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | Knowledge Graphs | arXiv | [Paper](http://arxiv.org/abs/2405.04753) | |
+| 2024 | Adversarial Attacks on Fairness of Graph Neural Networks | Graph Neural Networks | arXiv | [Paper](http://arxiv.org/abs/2310.13822) | |
+| 2024 | Unveiling Memorization in Code Models | Code Models | ICSE | [Paper](http://arxiv.org/abs/2308.09932) | |
 
 ### 2023
 
@@ -92,7 +95,13 @@ Papers are sorted by their released dates in descending order.
 | 2023 | AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models | White-Box Models | arXiv | [Link](http://arxiv.org/abs/2302.02162) | |
 | 2023 | Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering | Machine Learning Models | IEEE IoT Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10214537) | |
 | 2023 | DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/10007048) | |
-| 2023 | Model Leeching: An Extraction Attack Targeting LLMs | LLMs | arXiv | [Link](https://arxiv.org/abs/2309.10544) | |
+| 2023 | Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks | Large Language Models | arXiv | [Paper](http://arxiv.org/abs/2309.17410) | |
+| 2023 | A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer | Transformer Models | arXiv | [Paper](http://arxiv.org/abs/2311.13624) | |
+| 2023 | When the Curious Abandon Honesty: Federated Learning Is Not Private | Federated Learning Models | IEEE European Symposium on Security and Privacy (EuroS&P) | [Paper](https://ieeexplore.ieee.org/abstract/document/10190537) | |
+| 2023 | Making Watermark Survive Model Extraction Attacks in Graph Neural Networks | Graph Neural Networks | Unknown | | |
+| 2023 | A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots | Machine Learning Models | arXiv | [Paper](http://arxiv.org/abs/2302.11982) | |
+| 2023 | Private Graph Extraction via Feature Explanations | Graph Neural Networks | Proceedings on Privacy Enhancing Technologies | [Paper](http://arxiv.org/abs/2206.14724) | |
+
 ### 2022
 
 | Year | Title | Target Model | Venue | Paper Link | Code Link |
@@ -119,6 +128,10 @@ Papers are sorted by their released dates in descending order.
 | 2022 | Demystifying Arch-hints for Model Extraction: An Attack in Unified Memory System | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2208.13720) | |
 | 2022 | SNIFF: Reverse Engineering of Neural Networks With Fault Attacks | Neural Networks | IEEE Transactions on Reliability | [Link](https://ieeexplore.ieee.org/document/9530205) | |
 | 2022 | High-Fidelity Model Extraction Attacks via Remote Power Monitors | Machine Learning Models | AICAS | [Link](https://ieeexplore.ieee.org/document/9869973) | |
+| 2022 | User-Level Label Leakage from Gradients in Federated Learning | Federated Learning Models | arXiv | [Paper](http://arxiv.org/abs/2105.09369) | |
+| 2022 | Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs | NLP Models | arXiv | [Paper](http://arxiv.org/abs/2108.13873) | |
+| 2022 | Effect Verification of a Feature Extraction Method Based on Graph Convolutional Networks | Graph Convolutional Networks | International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM) | [Paper](https://ieeexplore.ieee.org/document/9955218) | |
+| 2022 | Towards Extracting Graph Neural Network Models via Prediction Queries (Student Abstract) | Graph Neural Networks | Proceedings of the AAAI Conference on Artificial Intelligence | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17959) | |
 
 ### 2021
 
@@ -279,6 +292,7 @@ Papers are sorted by their released dates in descending order.
 | 2023 | Deep Neural Network Watermarking against Model Extraction Attack | Deep Neural Networks | ACM MM | [Link](https://doi.org/10.1145/3581783.3612515) | |
 | 2023 | Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders | Encoder Models | NeurIPS | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad1efab57a04d93f097e7fbb2d4fc054-Abstract-Conference.html) | |
 | 2023 | Categorical Inference Poisoning: Verifiable Defense Against Black-Box DNN Model Stealing Without Constraining Surrogate Data and Query Times | Deep Neural Networks | IEEE TIFS | [Link](https://ieeexplore.ieee.org/abstract/document/10042038) | |
+| 2023 | {GAP}: Differentially Private Graph Neural Networks with Aggregation Perturbation | Graph Neural Networks | USENIX Security Symposium | [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh) | |
 
 ### 2022
 
