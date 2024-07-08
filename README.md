@@ -12,14 +12,16 @@ Papers are sorted by their released dates in descending order.
 | 2024 | Trustworthy Graph Neural Networks: Aspects, Methods and Trends | Proceedings of the IEEE | [Link](http://arxiv.org/abs/2205.07424) | |
 | 2024 | Safety in Graph Machine Learning: Threats and Safeguards | arXiv | [Link](http://arxiv.org/abs/2405.11034) | |
 | 2024 | SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) | |
+| 2024 | Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey | arXiv | [Link](https://arxiv.org/abs/2406.07973) | |
 | 2023 | A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications | arXiv | [Link](http://arxiv.org/abs/2308.16375) | |
 | 2023 | A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability | arXiv | [Link](http://arxiv.org/abs/2204.08570) | |
 | 2023 | A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly | ScienceDirect | [Link](https://www.sciencedirect.com/science/article/pii/S266729522400014X) | |
 | 2023 | I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences | ACM Computing Surveys | [Link](https://doi.org/10.1145/3595292) | |
-| 2022 | Membership Inference Attacks on Machine Learning: A Survey | ACM Computing Surveys | [Link](https://doi.org/10.1145/3523273) | |
+| 2023 | A Taxonomic Survey of Model Extraction Attacks | IEEE International Conference on Cyber Security and Resilience (CSR) | [Link](https://ieeexplore.ieee.org/document/10224959) | |
+| 2023 | A Survey of Privacy Attacks in Machine Learning | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3624010) | |
 | 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
 | 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
-
+| 2021 | A Critical Overview of Privacy in Machine Learning | IEEE Security & Privacy | [Link](https://ieeexplore.ieee.org/abstract/document/9433648?casa_token=3sYP7jF9ZSsAAAAA:AsdWPPO6SrWSz_6WgXoB-EIaaqbRSvZBdPyWICAXqmykYteyt-DRplHFXvmedAOQpfboF60T) | |
 
 ## Model Extraction Attack
 
