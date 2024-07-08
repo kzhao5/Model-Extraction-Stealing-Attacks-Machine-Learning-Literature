@@ -72,6 +72,8 @@ Papers are sorted by their released dates in descending order.
 | 2024 | Layer Sequence Extraction of Optimized DNNs Using Side-Channel Information Leaks | Deep Neural Networks | IEEE TCAD | [Link](https://ieeexplore.ieee.org/abstract/document/10500842) | |
 | 2024 | COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability | Large Language Models | arXiv | [Link](http://arxiv.org/abs/2402.08679) | |
 | 2024 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Text-to-Image Models | arXiv | [Link](http://arxiv.org/abs/2302.09923) | |
+| 2024 | An Empirical Evaluation of the Data Leakage in Federated Graph Learning | GNNs | IEEE Transactions on Network Science and Engineering | [Link](https://ieeexplore.ieee.org/document/10288405) | |
+| 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | LLMs | arXiv | [Link](http://arxiv.org/abs/2405.04753) | |
 
 ### 2023
 
@@ -90,7 +92,7 @@ Papers are sorted by their released dates in descending order.
 | 2023 | AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models | White-Box Models | arXiv | [Link](http://arxiv.org/abs/2302.02162) | |
 | 2023 | Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering | Machine Learning Models | IEEE IoT Journal | [Link](https://ieeexplore.ieee.org/abstract/document/10214537) | |
 | 2023 | DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer | Machine Learning Models | IEEE TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/10007048) | |
-
+| 2023 | Model Leeching: An Extraction Attack Targeting LLMs | LLMs | arXiv | [Link](https://arxiv.org/abs/2309.10544) | |
 ### 2022
 
 | Year | Title | Target Model | Venue | Paper Link | Code Link |
