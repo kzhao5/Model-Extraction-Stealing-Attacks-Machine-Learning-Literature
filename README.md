@@ -77,6 +77,7 @@ Papers are sorted by their released dates in descending order.
 | 2024 | AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models | Knowledge Graphs | arXiv | [Link](http://arxiv.org/abs/2405.04753) | |
 | 2024 | Adversarial Attacks on Fairness of Graph Neural Networks | Graph Neural Networks | arXiv | [Link](http://arxiv.org/abs/2310.13822) | |
 | 2024 | Unveiling Memorization in Code Models | Code Models | ICSE | [Link](http://arxiv.org/abs/2308.09932) | |
+| 2024 | Unveiling the Secrets without Data: Can Graph Neural Networks Be Exploited through Data-Free Model Extraction Attacks? | Graph Neural Networks | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/zhuang) | |
 
 ### 2023
 
@@ -190,6 +191,8 @@ Papers are sorted by their released dates in descending order.
 | 2020 | DeepEM: Deep Neural Networks Model Recovery through EM Side-Channel Information Leakage | Deep Neural Networks | HOST | [Link](https://ieeexplore.ieee.org/document/9300274) | |
 | 2020 | A Framework for Evaluating Gradient Leakage Attacks in Federated Learning | Federated Learning Models | arXiv | [Link](http://arxiv.org/abs/2004.10397) | |
 | 2020 | Quantifying (Hyper) Parameter Leakage in Machine Learning | Machine Learning Models | IEEE International Conference on Multimedia Big Data (BigMM) | [Link](https://ieeexplore.ieee.org/document/9232549) | |
+| 2020 | CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples | Deep Learning Models | NDSS | [Link](https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/) | |
+| 2020 | Stealing Black-Box Functionality Using The Deep Neural Tree Architecture | Black-Box Models | arXiv | [Link](https://arxiv.org/abs/2002.09864) | |
 
 ### 2019
 
@@ -207,6 +210,7 @@ Papers are sorted by their released dates in descending order.
 | 2019 | Model Weight Theft With Just Noise Inputs: The Curious Case of the Petulant Attacker | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/1912.08987) | |
 | 2019 | Model-Extraction Attack Against FPGA-DNN Accelerator Utilizing Correlation Electromagnetic Analysis | DNN Accelerators | FCCM | [Link](https://ieeexplore.ieee.org/document/8735505) | |
 | 2019 | CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel | Neural Networks | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity19/presentation/batina) | |
+| 2019 | Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective | Graph Neural Networks | arXiv | [Link](https://arxiv.org/abs/1906.04214) | |
 
 ### 2018
 
@@ -283,6 +287,7 @@ Papers are sorted by their released dates in descending order.
 | 2024 | Not Just Change the Labels, Learn the Features: Watermarking Deep Neural Networks with Multi-View Data | Deep Neural Networks | arXiv | [Link](http://arxiv.org/abs/2403.10663) | |
 | 2024 | QUEEN: Query Unlearning against Model Extraction | Machine Learning Models | arXiv | [Link](http://arxiv.org/abs/2407.01251) | |
 | 2024 | Bident Structure for Neural Network Model Protection | Neural Networks | SCITEPRESS | [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0008923403770384) | |
+| 2024 | ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks | Machine Learning Models | USENIX Security | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/tang) | |
 
 ### 2023
 
