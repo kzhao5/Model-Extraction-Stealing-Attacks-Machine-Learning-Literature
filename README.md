@@ -19,7 +19,7 @@ Papers are sorted by their released dates in descending order.
 | 2023 | I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences | ACM Computing Surveys | [Link](https://doi.org/10.1145/3595292) | |
 | 2023 | A Taxonomic Survey of Model Extraction Attacks | IEEE International Conference on Cyber Security and Resilience (CSR) | [Link](https://ieeexplore.ieee.org/document/10224959) | |
 | 2023 | A Survey of Privacy Attacks in Machine Learning | ACM Computing Surveys | [Link](https://dl.acm.org/doi/full/10.1145/3624010) | |
-| 2023 | Adversarial Attack and Defense on Graph Data: A Survey | IEEE Transactions on Knowledge and Data Engineering | [Paper](https://ieeexplore.ieee.org/abstract/document/9878092) | |
+| 2023 | Adversarial Attack and Defense on Graph Data: A Survey | IEEE Transactions on Knowledge and Data Engineering | [Link](https://ieeexplore.ieee.org/abstract/document/9878092) | |
 | 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
 | 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
 | 2021 | A Critical Overview of Privacy in Machine Learning | IEEE Security & Privacy | [Link](https://ieeexplore.ieee.org/abstract/document/9433648?casa_token=3sYP7jF9ZSsAAAAA:AsdWPPO6SrWSz_6WgXoB-EIaaqbRSvZBdPyWICAXqmykYteyt-DRplHFXvmedAOQpfboF60T) | |
