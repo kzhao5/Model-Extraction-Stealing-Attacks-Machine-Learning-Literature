@@ -1,0 +1,2459 @@
+@article{ju2024survey,
+  author = {Ju, Wei and Yi, Siyu and Wang, Yifan and Xiao, Zhiping and Mao, Zhengyang and Li, Hourun and Gu, Yiyang and Qin, Yifang and Yin, Nan and Wang, Senzhang and Liu, Xinwang and Luo, Xiao and Yu, Philip S. and Zhang, Ming},
+  title = {A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges},
+  journal = {arXiv preprint arXiv:2403.04468},
+  year = {2024}
+}
+
+@article{guan2024graph,
+  author = {Guan, Faqian and Zhu, Tianqing and Zhou, Wanlei and Choo, Kim-Kwang Raymond},
+  title = {Graph neural networks: a survey on the links between privacy and security},
+  journal = {Artificial Intelligence Review},
+  year = {2024},
+  volume = {57},
+  pages = {40},
+  doi = {10.1007/s10462-023-10656-4}
+}
+
+@inproceedings{zhang2024defense,
+  author = {Zhang, Sixiao and Yin, Hongzhi and Chen, Hongxu and Long, Cheng},
+  title = {Defense Against Model Extraction Attacks on Recommender Systems},
+  booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  year = {2024},
+  pages = {949--957},
+  doi = {10.1145/3616855.3635751}
+}
+
+@article{zhang2024trustworthy,
+  author = {Zhang, He and Wu, Bang and Yuan, Xingliang and Pan, Shirui and Tong, Hanghang and Pei, Jian},
+  title = {Trustworthy Graph Neural Networks: Aspects, Methods and Trends},
+  journal = {Proceedings of the IEEE},
+  year = {2024},
+  doi = {10.1109/JPROC.2024.3369017}
+}
+
+@article{zhang2024adversarial,
+  author = {Zhang, Binchi and Dong, Yushun and Chen, Chen and Zhu, Yada and Luo, Minnan and Li, Jundong},
+  title = {Adversarial Attacks on Fairness of Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2310.13822},
+  year = {2024}
+}
+
+@article{yang2024unveiling,
+  author = {Yang, Zhou and Zhao, Zhipeng and Wang, Chenyu and Shi, Jieke and Kim, Dongsun and Han, DongGyun and Lo, David},
+  title = {Unveiling Memorization in Code Models},
+  journal = {arXiv preprint arXiv:2308.09932},
+  year = {2024}
+}
+
+@article{bai2024special,
+  author = {Bai, Yang and Pei, Ge and Gu, Jindong and Yang, Yong and Ma, Xingjun},
+  title = {Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models},
+  journal = {arXiv preprint arXiv:2405.05990},
+  year = {2024}
+}
+
+@inproceedings{nazari2024llm,
+  author = {Nazari, Najmeh and Xiang, Furi and Fang, Chongzhou and Makrani, Hosein Mohammadi and Puri, Aditya and Patwari, Kartik and Sayadi, Hossein and Rafatirad, Setareh and Chuah, Chen-Nee and Homayoun, Houman},
+  title = {LLM-FIN: Large Language Models Fingerprinting Attack on Edge Devices},
+  booktitle = {2024 25th International Symposium on Quality Electronic Design (ISQED)},
+  year = {2024},
+  organization = {IEEE}
+}
+
+@inproceedings{liu2024model,
+  author = {Liu, Jialin and Wang, Han},
+  title = {Model Extraction Attack against On-device Deep Learning with Power Side Channel},
+  booktitle = {2024 25th International Symposium on Quality Electronic Design (ISQED)},
+  year = {2024},
+  organization = {IEEE}
+}
+
+@article{chen2024empirical,
+  author = {Chen, Jinyin and Ma, Minying and Ma, Haonan and Zheng, Haibin and Zhang, Jian},
+  title = {An Empirical Evaluation of the Data Leakage in Federated Graph Learning},
+  journal = {IEEE Transactions on Network Science and Engineering},
+  year = {2024}
+}
+
+@article{podhajski2024efficient,
+  author = {Podhajski, Marcin and Dubiński, Jan and Boenisch, Franziska and Dziedzic, Adam and Pregowska, Agnieszka and Michalak, Tomasz},
+  title = {Efficient Model-Stealing Attacks Against Inductive Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2405.12295},
+  year = {2024}
+}
+
+@article{guan2024realistic,
+  author = {Guan, Faqian and Zhu, Tianqing and Tong, Hanjin and Zhou, Wanlei},
+  title = {A realistic model extraction attack against graph neural networks},
+  journal = {Knowledge-Based Systems},
+  year = {2024},
+  pages = {111657}
+}
+
+@article{you2024gnnguard,
+  author = {You, Xiaoyu and Jiang, Youhe and Xu, Jianwei and Zhang, Mi and Yang, Min},
+  title = {GNNGuard: A Fingerprinting Framework for Verifying Ownerships of Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2403.14476},
+  year = {2024}
+}
+
+@article{pei2024privacy,
+  author = {Pei, Xinjun and Deng, Xiaoheng and Tian, Shengwei and Liu, Jianqing and Xue, Kaiping},
+  title = {Privacy-Enhanced Graph Neural Network for Decentralized Local Graphs},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year = {2024}
+}
+
+@article{bachina2024genie,
+  author = {Bachina, Venkata Sai Pranav and Gangwal, Ankit and Sharma, Aaryan Ajay and Sharma, Charu},
+  title = {GENIE: Watermarking Graph Neural Networks for Link Prediction},
+  journal = {arXiv preprint arXiv:2406.04805},
+  year = {2024}
+}
+
+@article{wang2024safety,
+  author = {Wang, Song and Dong, Yushun and Zhang, Binchi and Chen, Zihan and Fu, Xingbo and He, Yinhan and Shen, Cong and Zhang, Chuxu and Chawla, Nitesh V. and Li, Jundong},
+  title = {Safety in Graph Machine Learning: Threats and Safeguards},
+  journal = {arXiv preprint arXiv:2405.11034},
+  year = {2024}
+}
+
+@article{dai2024pregip,
+  author = {Dai, Enyan and Lin, Minhua and Wang, Suhang},
+  title = {PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection},
+  journal = {arXiv preprint arXiv:2402.04435},
+  year = {2024}
+}
+
+@article{guan2024large,
+  author = {Guan, Faqian and Zhu, Tianqing and Sun, Hui and Zhou, Wanlei and Yu, Philip S.},
+  title = {Large Language Models for Link Stealing Attacks Against Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2406.16963},
+  year = {2024}
+}
+
+@article{wu2024link,
+  author = {Wu, Yixin and He, Xinlei and Berrang, Pascal and Humbert, Mathias and Backes, Michael and Gong, Neil Zhenqiang and Zhang, Yang},
+  title = {Link Stealing Attacks Against Inductive Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2405.05784},
+  year = {2024}
+}
+
+@inproceedings{tramer2016stealing, author = {Tram\`{e}r, Florian and Zhang, Fan and Juels, Ari and Reiter, Michael K. and Ristenpart, Thomas}, title = {Stealing machine learning models via prediction APIs}, year = {2016}, isbn = {9781931971324}, publisher = {USENIX Association}, address = {USA}, booktitle = {Proceedings of the 25th USENIX Conference on Security Symposium}, pages = {601–618}, numpages = {18}, location = {Austin, TX, USA}, series = {SEC'16} }
+
+@article{shukla2024stealing,
+  author = {Shukla, Shubhi and Alam, Manaar and Mitra, Pabitra and Mukhopadhyay, Debdeep},
+  title = {Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels},
+  journal = {arXiv preprint arXiv:2402.11953},
+  year = {2024}
+}
+
+@inproceedings{papernot2017practical, author = {Papernot, Nicolas and McDaniel, Patrick and Goodfellow, Ian and Jha, Somesh and Celik, Z. Berkay and Swami, Ananthram}, title = {Practical Black-Box Attacks against Machine Learning}, year = {2017}, isbn = {9781450349444}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3052973.3053009}, doi = {10.1145/3052973.3053009}, booktitle = {Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security}, pages = {506–519}, numpages = {14}, keywords = {machine learning, black-box attack, adversarial machine learning}, location = {Abu Dhabi, United Arab Emirates}, series = {ASIA CCS '17} }
+
+
+@article{yang2024swifttheft,
+  author = {Yang, Wenbin and Gong, Xueluan and Chen, Yanjiao and Wang, Qian and Dong, Jianshuo},
+  title = {SwiftTheft: A Time-Efficient Model Extraction Attack Framework Against Cloud-Based Deep Neural Networks},
+  journal = {Chinese Journal of Electronics},
+  year = {2024}
+}
+
+@article{zhou2024inversion,
+  author = {Zhou, Shuai and Zhu, Tianqing and Ye, Dayong and Zhou, Wanlei and Zhao, Wei},
+  title = {Inversion-Guided Defense: Detecting Model Stealing Attacks by Output Inverting},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year = {2024}
+}
+
+@inproceedings{yoshida2024model,
+  author = {Yoshida, Kota and Fujino, Takeshi},
+  title = {Model Extraction Attack Without Natural Images},
+  booktitle = {Applied Cryptography and Network Security Workshops},
+  year = {2024},
+  organization = {Springer}
+}
+
+@article{liang2024defending,
+  author = {Liang, Chuang and Huang, Jie and Zhang, Zeping and Zhang, Shuaishuai},
+  title = {Defending against model extraction attacks with OOD feature learning and decision boundary confusion},
+  journal = {Computers \& Security},
+  year = {2024},
+  pages = {103563}
+}
+
+@inproceedings{xie2024same,
+  author = {Xie, Yi and Zhang, Jie and Zhao, Shiqian and Zhang, Tianwei and Chen, Xiaofeng},
+  title = {SAME: Sample Reconstruction against Model Extraction Attacks},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year = {2024}
+}
+
+@article{liu2024model,
+  author = {Liu, Xinjing and Liu, Taifeng and Yang, Hao and Dong, Jiakang and Ying, Zuobin and Ma, Zhuo},
+  title = {Model Stealing Detection for IoT Services Based on Multi-Dimensional Features},
+  journal = {IEEE Internet of Things Journal},
+  year = {2024}
+}
+
+@inproceedings{ren2024demistify,
+  author = {Ren, Pengcheng and Zuo, Chaoshun and Liu, Xiaofeng and Diao, Wenrui and Zhao, Qingchuan and Guo, Shanqing},
+  title = {DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps},
+  booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
+  year = {2024},
+  pages = {1--13}
+}
+
+@article{han2024exploring,
+  author = {Han, Dong and Babaei, Reza and Zhao, Shangqing and Cheng, Samuel},
+  title = {Exploring the Efficacy of Learning Techniques in Model Extraction Attacks on Image Classifiers: A Comparative Study},
+  journal = {Applied Sciences},
+  volume = {14},
+  number = {9},
+  pages = {3785},
+  year = {2024}
+}
+
+@inproceedings{jindal2024army,
+  author = {Jindal, Akshit and Goyal, Vikram and Anand, Saket and Arora, Chetan},
+  title = {Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble Based Sample Selection},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  year = {2024},
+  pages = {7575--7584}
+}
+
+@article{gurve2024misguide,
+  author = {Gurve, Mahendra and Behera, Sankar and Ahlawat, Satyadev and Prasad, Yamuna},
+  title = {MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction},
+  journal = {arXiv preprint arXiv:2403.18580},
+  year = {2024}
+}
+
+@inproceedings{meyers2024trained,
+  author = {Meyers, Vincent and Hefenbrock, Michael and Gnad, Dennis and Tahoori, Mehdi},
+  title = {Trained to Leak: Hiding Trojan Side-Channels in Neural Network Weights},
+  booktitle = {2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)},
+  year = {2024},
+  organization = {IEEE}
+}
+
+@inproceedings{xu2024stealthy,
+  author = {Xu, Xiaoyang and Yang, Mengda and Yi, Wenzhe and Li, Ziang and Wang, Juan and Hu, Hongxin and Zhuang, Yong and Liu, Yaxin},
+  title = {A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year = {2024}
+}
+
+@article{yilmaz2024adversarial,
+  author = {Yilmaz, Eda and Keles, Hacer Yalim},
+  title = {Adversarial Sparse Teacher: Defense Against Distillation-Based Model Stealing Attacks Using Adversarial Examples},
+  journal = {arXiv preprint arXiv:2403.05181},
+  year = {2024}
+}
+
+@inproceedings{liu2024construct,
+  author = {Liu, Yu-Hsin and Shen, Yu-Chun and Chen, Hsi-Wen and Chen, Ming-Syan},
+  title = {Construct a Secure CNN Against Gradient Inversion Attack},
+  booktitle = {Advances in Knowledge Discovery and Data Mining},
+  year = {2024},
+  organization = {Springer}
+}
+
+@article{jiang2024comprehensive,
+  author = {Jiang, Wenbo and Li, Hongwei and Xu, Guowen and Zhang, Tianwei and Lu, Rongxing},
+  title = {A Comprehensive Defense Framework Against Model Extraction Attacks},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year = {2024}
+}
+
+@article{sha2024prompt,
+  author = {Sha, Zeyang and Zhang, Yang},
+  title = {Prompt Stealing Attacks Against Large Language Models},
+  journal = {arXiv preprint arXiv:2402.12959},
+  year = {2024}
+}
+
+@inproceedings{zhang2024poisoning,
+  author = {Zhang, Haitian and Hua, Guang and Wang, Xinya and Jiang, Hao and Yang, Wen},
+  title = {Poisoning-Free Defense Against Black-Box Model Extraction},
+  booktitle = {ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year = {2024},
+  publisher = {IEEE},
+  doi = {10.1109/ICASSP49357.2024.10447550}
+}
+
+@article{zhu2024reliable,
+  author = {Zhu, Hongyu and Liang, Sichu and Hu, Wentao and Li, Fangqi and Jia, Ju and Wang, Shilin},
+  title = {Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion},
+  journal = {arXiv preprint arXiv:2404.13518},
+  year = {2024}
+}
+
+@inproceedings{wu2024efficient,
+  author = {Wu, Dong-Dong and Fu, Chilin and Wu, Weichang and Xia, Wenwen and Zhang, Xiaolu and Zhou, Jun and Zhang, Min-Ling},
+  title = {Efficient Model Stealing Defense with Noise Transition Matrix},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2024},
+  pages = {16675-16684}
+}
+
+@article{zhang2024making,
+  author = {Zhang, Chenlong and Luo, Senlin and Pan, Limin and Lu, Chuan and Zhang, Zhao},
+  title = {Making models more secure: An efficient model stealing detection method},
+  journal = {Computers and Electrical Engineering},
+  volume = {118},
+  pages = {109223},
+  year = {2024},
+  doi = {10.1016/j.compeleceng.2024.109223}
+}
+
+@article{fu2024quantumleak,
+  author = {Fu, Zhenxiao and Yang, Min and Chu, Cheng and Xu, Yilun and Huang, Gang and Chen, Fan},
+  title = {QuantumLeak: Stealing Quantum Neural Networks from Cloud-based NISQ Machines},
+  journal = {arXiv preprint arXiv:2403.10790},
+  year = {2024}
+}
+
+@article{feng2024privacy,
+  author = {Feng, Shanglun and Tramèr, Florian},
+  title = {Privacy Backdoors: Stealing Data with Corrupted Pretrained Models},
+  journal = {arXiv preprint arXiv:2404.00473},
+  year = {2024}
+}
+
+@article{gao2024augsteal,
+  author = {Gao, Lijun and Liu, Wenjun and Liu, Kai and Wu, Jiehong},
+  title = {AugSteal: Advancing Model Steal With Data Augmentation in Active Learning Frameworks},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year = {2024},
+  volume = {19},
+  pages = {3102-3116},
+  doi = {10.1109/TIFS.2024.3367452}
+}
+
+@article{li2024translinkguard,
+  author = {Li, Qinfeng and Shen, Zhiqiang and Qin, Zhenghan and Xie, Yangfan and Zhang, Xuhong and Du, Tianyu and Yin, Jianwei},
+  title = {TransLinkGuard: Safeguarding Transformer Models Against Model Stealing in Edge Deployment},
+  journal = {arXiv preprint arXiv:2404.11121},
+  year = {2024}
+}
+
+@inproceedings{mi2024towards,
+  author = {Mi, Di and Zhang, Yanjun and Zhang, Leo Yu and Hu, Shengshan and Zhong, Qi and Yuan, Haizhuan and Pan, Shirui},
+  title = {Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume = {38},
+  number = {5},
+  pages = {6178-6186},
+  year = {2024}
+}
+
+@article{ezzeddine2024knowledge,
+  author = {Ezzeddine, Fatima and Ayoub, Omran and Giordano, Silvia},
+  title = {Knowledge Distillation-Based Model Extraction Attack using Private Counterfactual Explanations},
+  journal = {arXiv preprint arXiv:2404.03348},
+  year = {2024}
+}
+
+@article{spingarn2024stealing,
+  author = {Spingarn-Eliezer, Nurit and Michaeli, Tomer},
+  title = {Stealing Image-to-Image Translation Models With a Single Query},
+  journal = {arXiv preprint arXiv:2406.00828},
+  year = {2024}
+}
+
+@article{sun2024two,
+  author = {Sun, Hui and Zhu, Tianqing and Chang, Wenhan and Zhou, Wanlei},
+  title = {A two-stage model extraction attack on GANs with a small collected dataset},
+  journal = {Computers \& Security},
+  volume = {138},
+  pages = {103685},
+  year = {2024},
+  doi = {10.1016/j.cose.2023.103685}
+}
+
+@article{zhang2024attackg,
+  author = {Zhang, Yongheng and Du, Tingwen and Ma, Yunshan and Wang, Xiang and Xie, Yi and Yang, Guozheng and Lu, Yuliang and Chang, Ee-Chien},
+  title = {AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models},
+  journal = {arXiv preprint arXiv:2405.04753},
+  year = {2024}
+}
+
+@article{sun2024layer,
+  author = {Sun, Yidan and Jiang, Guiyuan and Liu, Xinwang and He, Peilan and Lam, Siew-Kei},
+  title = {Layer Sequence Extraction of Optimized DNNs Using Side-Channel Information Leaks},
+  journal = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  year = {2024},
+  volume = {43},
+  number = {6},
+  pages = {2605-2616},
+  doi = {10.1109/TCAD.2024.3368938}
+}
+
+@article{guo2024cold,
+  author = {Guo, Xingang and Yu, Fangxu and Zhang, Huan and Qin, Lianhui and Hu, Bin},
+  title = {COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability},
+  journal = {arXiv preprint arXiv:2402.08679},
+  year = {2024}
+}
+
+@article{shen2024prompt,
+  author = {Shen, Xinyue and Qu, Yiting and Backes, Michael and Zhang, Yang},
+  title = {Prompt Stealing Attacks Against Text-to-Image Generation Models},
+  journal = {arXiv preprint arXiv:2302.09923},
+  year = {2024}
+}
+
+@article{li2024just,
+  author = {Li, Yuxuan and Maharana, Sarthak Kumar and Guo, Yunhui},
+  title = {Not Just Change the Labels, Learn the Features: Watermarking Deep Neural Networks with Multi-View Data},
+  journal = {arXiv preprint arXiv:2403.10663},
+  year = {2024}
+}
+
+@article{chen2024queen,
+  author = {Chen, Huajie and Zhu, Tianqing and Zhang, Lefeng and Liu, Bo and Wang, Derui and Zhou, Wanlei and Xue, Minhui},
+  title = {QUEEN: Query Unlearning against Model Extraction},
+  journal = {arXiv preprint arXiv:2407.01251},
+  year = {2024}
+}
+
+@inproceedings{lin2024bident,
+  author = {Lin, Hsiao-Ying and Fang, Chengfang and Shi, Jie},
+  title = {Bident Structure for Neural Network Model Protection},
+  booktitle = {Proceedings of the 9th International Conference on Information Systems Security and Privacy - ICISSP},
+  year = {2024},
+  pages = {377-384},
+  doi = {10.5220/0008923403770384}
+}
+
+@article{yan2023explanation,
+  author = {Yan, Anli and Huang, Teng and Ke, Lishan and Liu, Xiaozhang and Chen, Qi and Dong, Changyu},
+  title = {Explanation leaks: Explanation-guided model extraction attacks},
+  journal = {Information Sciences},
+  year = {2023},
+  url = {https://www.sciencedirect.com/science/article/pii/S002002552300316X}
+}
+
+@article{liu2023membership,
+  author = {Liu, Lan and Wang, Yi and Liu, Gaoyang and Peng, Kai and Wang, Chen},
+  title = {Membership Inference Attacks Against Machine Learning Models via Prediction Sensitivity},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/document/9793586}
+}
+
+@article{dong2023fairness,
+  author = {Dong, Yushun and Ma, Jing and Wang, Song and Chen, Chen and Li, Jundong},
+  title = {Fairness in Graph Mining: A Survey},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  year = {2023},
+  url = {http://arxiv.org/abs/2204.09888}
+}
+
+@article{sun2023adversarial,
+  author = {Sun, Lichao and Dou, Yingtong and Yang, Carl and Zhang, Kai and Wang, Ji and Yu, Philip S. and He, Lifang and Li, Bo},
+  title = {Adversarial Attack and Defense on Graph Data: A Survey},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/9878092}
+}
+
+@article{birch2023model,
+  author = {Birch, Lewis and Hackett, William and Trawicki, Stefan and Suri, Neeraj and Garraghan, Peter},
+  title = {Model Leeching: An Extraction Attack Targeting LLMs},
+  journal = {arXiv preprint arXiv:2309.10544},
+  year = {2023},
+  url = {http://arxiv.org/abs/2309.10544}
+}
+
+@article{patil2023can,
+  author = {Patil, Vaidehi and Hase, Peter and Bansal, Mohit},
+  title = {Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks},
+  journal = {arXiv preprint arXiv:2309.17410},
+  year = {2023},
+  url = {http://arxiv.org/abs/2309.17410}
+}
+
+@article{li2023theoretical,
+  author = {Li, Chenyang and Song, Zhao and Wang, Weixin and Yang, Chiwun},
+  title = {A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer},
+  journal = {arXiv preprint arXiv:2311.13624},
+  year = {2023},
+  url = {http://arxiv.org/abs/2311.13624}
+}
+
+@inproceedings{duan2023are,
+  author = {Duan, Jinhao and Kong, Fei and Wang, Shiqi and Shi, Xiaoshuang and Xu, Kaidi},
+  title = {Are Diffusion Models Vulnerable to Membership Inference Attacks?},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  year = {2023},
+  url = {https://proceedings.mlr.press/v202/duan23b.html}
+}
+
+@article{zhang2023ethicist,
+  author = {Zhang, Zhexin and Wen, Jiaxin and Huang, Minlie},
+  title = {Ethicist: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation},
+  journal = {arXiv preprint arXiv:2307.04401},
+  year = {2023},
+  url = {http://arxiv.org/abs/2307.04401}
+}
+
+@article{li2023model,
+  author = {Li, Jingtao and Rakin, Adnan Siraj and Chen, Xing and Yang, Li and He, Zhezhi and Fan, Deliang and Chakrabarti, Chaitali},
+  title = {Model Extraction Attacks on Split Federated Learning},
+  journal = {arXiv preprint arXiv:2303.08581},
+  year = {2023},
+  url = {http://arxiv.org/abs/2303.08581}
+}
+
+@inproceedings{boenisch2023when,
+  author = {Boenisch, Franziska and Dziedzic, Adam and Schuster, Roei and Shamsabadi, Ali Shahin and Shumailov, Ilia and Papernot, Nicolas},
+  title = {When the Curious Abandon Honesty: Federated Learning Is Not Private},
+  booktitle = {2023 IEEE 8th European Symposium on Security and Privacy (EuroS\&P)},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10190537}
+}
+
+@article{waheed2023grove,
+  author = {Waheed, Asim and Duddu, Vasisht and Asokan, N.},
+  title = {GrOVe: Ownership Verification of Graph Neural Networks using Embeddings},
+  journal = {arXiv preprint arXiv:2304.08566},
+  year = {2023},
+  url = {http://arxiv.org/abs/2304.08566}
+}
+
+@article{wang2023making,
+  author = {Wang, Haiming and Zhang, Zhikun and Chen, Min and He, Shibo},
+  title = {Making Watermark Survive Model Extraction Attacks in Graph Neural Networks},
+  year = {2023}
+}
+
+@article{zhang2023survey,
+  author = {Zhang, Yi and Zhao, Yuying and Li, Zhaoqing and Cheng, Xueqi and Wang, Yu and Kotevska, Olivera and Yu, Philip S. and Derr, Tyler},
+  title = {A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications},
+  journal = {arXiv preprint arXiv:2308.16375},
+  year = {2023},
+  url = {http://arxiv.org/abs/2308.16375}
+}
+
+@article{dai2023comprehensive,
+  author = {Dai, Enyan and Zhao, Tianxiang and Zhu, Huaisheng and Xu, Junjie and Guo, Zhimeng and Liu, Hui and Tang, Jiliang and Wang, Suhang},
+  title = {A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability},
+  journal = {arXiv preprint arXiv:2204.08570},
+  year = {2023},
+  url = {http://arxiv.org/abs/2204.08570}
+}
+
+@inproceedings{zhang2023extracting,
+  author = {Zhang, Chenhan and Wang, Weiqi and Yu, James J.Q. and Yu, Shui},
+  title = {Extracting Privacy-Preserving Subgraphs in Federated Graph Learning using Information Bottleneck},
+  booktitle = {Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security},
+  year = {2023},
+  url = {https://doi.org/10.1145/3579856.3595791}
+}
+
+@article{zhang2023plot,
+  author = {Zhang, Boyang and He, Xinlei and Shen, Yun and Wang, Tianhao and Zhang, Yang},
+  title = {A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots},
+  journal = {arXiv preprint arXiv:2302.11982},
+  year = {2023},
+  url = {http://arxiv.org/abs/2302.11982}
+}
+
+@article{sha2023cant,
+  author = {Sha, Zeyang and He, Xinlei and Yu, Ning and Backes, Michael and Zhang, Yang},
+  title = {Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders},
+  journal = {arXiv preprint arXiv:2201.07513},
+  year = {2023},
+  url = {http://arxiv.org/abs/2201.07513}
+}
+
+@article{olatunji2023private,
+  author = {Olatunji, Iyiola E. and Rathee, Mandeep and Funke, Thorben and Khosla, Megha},
+  title = {Private Graph Extraction via Feature Explanations},
+  journal = {Proceedings on Privacy Enhancing Technologies},
+  year = {2023},
+  url = {http://arxiv.org/abs/2206.14724}
+}
+
+@inproceedings{sajadmanesh2023gap,
+  author = {Sajadmanesh, Sina and Shamsabadi, Ali Shahin and Bellet, Aur\'{e}lien and Gatica-Perez, Daniel},
+  title = {{GAP}: Differentially Private Graph Neural Networks with Aggregation Perturbation},
+  booktitle = {32nd USENIX Security Symposium (USENIX Security 23)},
+  year = {2023},
+  url = {https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh}
+}
+
+@article{zhu2023model,
+  author = {Zhu, Zhihao and Wu, Chenwang and Fan, Rui and Yang, Yi and Lian, Defu and Chen, Enhong},
+  title = {Model Stealing Attack against Graph Classification with Authenticity, Uncertainty and Diversity},
+  journal = {arXiv preprint arXiv:2312.10943},
+  year = {2023},
+  url = {http://arxiv.org/abs/2312.10943}
+}
+
+@inproceedings{karmakar2023marich,
+  author = {Karmakar, Pratik and Basu, Debabrota},
+  title = {Marich: A Query-efficient Distributionally Equivalent Model Extraction Attack},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2023},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5440ffceaf4831b5f98652b8a27ffde-Abstract-Conference.html}
+}
+
+@inproceedings{wang2023defending,
+  author = {Wang, Zhenyi and Shen, Li and Liu, Tongliang and Duan, Tiehang and Zhu, Yanjun and Zhan, Donglin and Doermann, David and Gao, Mingchen},
+  title = {Defending against Data-Free Model Extraction by Distributionally Robust Defensive Training},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2023},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2023/hash/0207c9ea9faf66c6e892c3fa3c167b75-Abstract-Conference.html}
+}
+
+@inproceedings{tang2023exposing,
+  author = {Tang, Ruixiang and Jin, Hongye and Du, Mengnan and Wigington, Curtis and Jain, Rajiv and Hu, Xia},
+  title = {Exposing Model Theft: A Robust and Transferable Watermark for Thwarting Model Extraction Attacks},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  year = {2023},
+  url = {https://doi.org/10.1145/3583780.3615211}
+}
+
+@article{oliynyk2023know,
+  author = {Oliynyk, Daryna and Mayer, Rudolf and Rauber, Andreas},
+  title = {I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences},
+  journal = {ACM Computing Surveys},
+  year = {2023},
+  url = {https://doi.org/10.1145/3595292}
+}
+
+@article{li2023defending,
+  author = {Li, Dawei and Liu, Di and Guo, Ying and Ren, Yangkun and Su, Jieyu and Liu, Jianwei},
+  title = {Defending against model extraction attacks with physical unclonable function},
+  journal = {Information Sciences},
+  year = {2023},
+  url = {https://www.sciencedirect.com/science/article/pii/S0020025523001147}
+}
+
+@inproceedings{guo2023isolation,
+  author = {Guo, Jun and Zheng, Xingyu and Liu, Aishan and Liang, Siyuan and Xiao, Yisong and Wu, Yichao and Liu, Xianglong},
+  title = {Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks},
+  booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+  year = {2023},
+  url = {https://doi.org/10.1145/3581783.3612092}
+}
+
+@article{zhang2023apmsa,
+  author = {Zhang, Jiliang and Peng, Shuang and Gao, Yansong and Zhang, Zhi and Hong, Qinghui},
+  title = {APMSA: Adversarial Perturbation Against Model Stealing Attacks},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10049136}
+}
+
+@inproceedings{chen2023ddae,
+  author = {Chen, Yanjiao and Guan, Rui and Gong, Xueluan and Dong, Jianshuo and Xue, Meng},
+  title = {D-DAE: Defense-Penetrating Model Extraction Attacks},
+  booktitle = {2023 IEEE Symposium on Security and Privacy (SP)},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10179406}
+}
+
+@article{szyller2023good,
+  author = {Szyller, Sebastian and Duddu, Vasisht and Gr\"{o}ndahl, Tommi and Asokan, N.},
+  title = {Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Models},
+  journal = {arXiv preprint arXiv:2104.12623},
+  year = {2023},
+  url = {http://arxiv.org/abs/2104.12623}
+}
+
+@inproceedings{tan2023deep,
+  author = {Tan, Jingxuan and Zhong, Nan and Qian, Zhenxing and Zhang, Xinpeng and Li, Sheng},
+  title = {Deep Neural Network Watermarking against Model Extraction Attack},
+  booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+  year = {2023},
+  url = {https://doi.org/10.1145/3581783.3612515}
+}
+
+@inproceedings{dubinski2023bucks,
+  author = {Dubi\'{n}ski, Jan and Pawlak, Stanis{\l}aw and Boenisch, Franziska and Trzci\'{n}ski, Tomasz and Dziedzic, Adam},
+  title = {Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2023},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad1efab57a04d93f097e7fbb2d4fc054-Abstract-Conference.html}
+}
+
+@article{oksuz2023autolycus,
+  author = {Oksuz, Abdullah Caglar and Halimi, Anisa and Ayday, Erman},
+  title = {AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models},
+  journal = {arXiv preprint arXiv:2302.02162},
+  year = {2023},
+  url = {http://arxiv.org/abs/2302.02162}
+}
+@inproceedings{correia2018copycat,
+title={Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data},
+author={Correia-Silva, Jacson Rodrigues and Berriel, Rodrigo F and Badue, Claudine and de Souza, Alberto F and Oliveira-Santos, Thiago},
+booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},
+pages={1--8},
+year={2018},
+organization={IEEE},
+doi={10.1109/IJCNN.2018.8489592}
+}
+
+@article{yang2023efficient,
+  author = {Yang, Panpan and Wu, Qinglong and Zhang, Xinming},
+  title = {Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering},
+  journal = {IEEE Internet of Things Journal},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10214537}
+}
+
+@article{ma2023divtheft,
+  author = {Ma, Zhuo and Liu, Xinjing and Liu, Yang and Liu, Ximeng and Qin, Zhan and Ren, Kui},
+  title = {DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10007048}
+}
+
+@article{zhang2023categorical,
+  author = {Zhang, Haitian and Hua, Guang and Wang, Xinya and Jiang, Hao and Yang, Wen},
+  title = {Categorical Inference Poisoning: Verifiable Defense Against Black-Box DNN Model Stealing Without Constraining Surrogate Data and Query Times},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/abstract/document/10042038}
+}
+
+@article{lederer2023identifying,
+  author = {Lederer, Isabell and Mayer, Rudolf and Rauber, Andreas},
+  title = {Identifying Appropriate Intellectual Property Protection Mechanisms for Machine Learning Models: A Systematization of Watermarking, Fingerprinting, Model Access, and Attacks},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  year = {2023},
+  url = {https://ieeexplore.ieee.org/document/10143370}
+}
+
+@article{hu2022membership,
+  author = {Hu, Hongsheng and Salcic, Zoran and Sun, Lichao and Dobbie, Gillian and Yu, Philip S. and Zhang, Xuyun},
+  title = {Membership Inference Attacks on Machine Learning: A Survey},
+  journal = {ACM Computing Surveys},
+  year = {2022},
+  url = {https://doi.org/10.1145/3523273}
+}
+
+@article{parikh2022canary,
+  author = {Parikh, Rahil and Dupuy, Christophe and Gupta, Rahul},
+  title = {Canary Extraction in Natural Language Understanding Models},
+  journal = {arXiv preprint arXiv:2203.13920},
+  year = {2022},
+  url = {http://arxiv.org/abs/2203.13920}
+}
+
+@article{huang2022are,
+  author = {Huang, Jie and Shao, Hanyin and Chang, Kevin Chen-Chuan},
+  title = {Are Large Pre-Trained Language Models Leaking Your Personal Information?},
+  journal = {arXiv preprint arXiv:2205.12628},
+  year = {2022},
+  url = {http://arxiv.org/abs/2205.12628}
+}
+
+@article{zhang2022text,
+  author = {Zhang, Ruisi and Hidano, Seira and Koushanfar, Farinaz},
+  title = {Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers},
+  journal = {arXiv preprint arXiv:2209.10505},
+  year = {2022},
+  url = {http://arxiv.org/abs/2209.10505}
+}
+
+@inproceedings{lee2022precise,
+  author = {Lee, Younghan and Jun, Sohee and Cho, Yungi and Han, Woorim and Moon, Hyungon and Paek, Yunheung},
+  title = {Precise Extraction of Deep Learning Models via Side-Channel Attacks on Edge/Endpoint Devices},
+  booktitle = {Computer Security -- ESORICS 2022},
+  year = {2022}
+}
+
+@article{lyu2022privacy,
+  author = {Lyu, Lingjuan and Yu, Han and Ma, Xingjun and Chen, Chen and Sun, Lichao and Zhao, Jun and Yang, Qiang and Yu, Philip S.},
+  title = {Privacy and Robustness in Federated Learning: Attacks and Defenses},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  year = {2022},
+  url = {https://ieeexplore.ieee.org/abstract/document/9945997}
+}
+
+@article{wainakh2022user,
+  author = {Wainakh, Aidmar and Ventola, Fabrizio and M\"{u}{\ss}ig, Till and Keim, Jens and Cordero, Carlos Garcia and Zimmer, Ephraim and Grube, Tim and Kersting, Kristian and M\"{u}hlh\"{a}user, Max},
+  title = {User-Level Label Leakage from Gradients in Federated Learning},
+  journal = {arXiv preprint arXiv:2105.09369},
+  year = {2022},
+  url = {http://arxiv.org/abs/2105.09369}
+}
+
+@article{xu2022student,
+  author = {Xu, Qiongkai and He, Xuanli and Lyu, Lingjuan and Qu, Lizhen and Haffari, Gholamreza},
+  title = {Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs},
+  journal = {arXiv preprint arXiv:2108.13873},
+  year = {2022},
+  url = {http://arxiv.org/abs/2108.13873}
+}
+
+@inproceedings{zhu2022effect,
+  author = {Zhu, Yunzhe and Tan, Yusong and Wu, Qingbo},
+  title = {Effect Verification of a Feature Extraction Method Based on Graph Convolutional Networks},
+  booktitle = {2022 International Conference on Machine Learning, Cloud Computing and Intelligent Mining (MLCCIM)},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/MLCCIM55361.2022.9955218}
+}
+
+@inproceedings{rakin2022deepsteal,
+  author = {Rakin, Adnan Siraj and Chowdhuryy, Md Hafizul Islam and Yao, Fan and Fan, Deliang},
+  title = {DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories},
+  booktitle = {2022 IEEE Symposium on Security and Privacy (SP)},
+  year = {2022},
+  pages = {2193--2210},
+  publisher = {IEEE},
+  doi = {10.1109/SP46214.2022.9833743}
+}
+
+@inproceedings{xie2022game,
+  author = {Xie, Yi and Huang, Mengdie and Zhang, Xiaoyu and Dong, Changyu and Susilo, Willy and Chen, Xiaofeng},
+  title = {GAME: Generative-Based Adaptive Model Extraction Attack},
+  booktitle = {Computer Security – ESORICS 2022},
+  year = {2022},
+  publisher = {Springer}
+}
+
+@inproceedings{wang2022black,
+  author = {Wang, Yixu and Li, Jie and Liu, Hong and Wang, Yan and Wu, Yongjian and Huang, Feiyue and Ji, Rongrong},
+  title = {Black-Box Dissector: Towards Erasing-Based Hard-Label Model Stealing Attack},
+  booktitle = {Computer Vision – ECCV 2022},
+  year = {2022},
+  publisher = {Springer}
+}
+
+@article{yan2022monitoring,
+  author = {Yan, Haonan and Li, Xiaoguang and Li, Hui and Li, Jiamin and Sun, Wenhai and Li, Fenghua},
+  title = {Monitoring-Based Differential Privacy Mechanism Against Query Flooding-Based Model Extraction Attack},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year = {2022},
+  volume = {19},
+  number = {5},
+  pages = {3278--3292},
+  doi = {10.1109/TDSC.2021.3067467}
+}
+
+@article{Yan2022TowardsEM,
+  title={Towards explainable model extraction attacks},
+  author={Anli Yan and Ruitao Hou and Xiaozhang Liu and Hongyang Yan and Teng Huang and Xianmin Wang},
+  journal={International Journal of Intelligent Systems},
+  year={2022},
+  volume={37},
+  pages={9936 - 9956},
+  url={https://api.semanticscholar.org/CorpusID:252169617}
+}
+
+@inproceedings{liang2022imitated,
+  author = {Liang, Siyuan and Liu, Aishan and Liang, Jiawei and Li, Longkang and Bai, Yang and Cao, Xiaochun},
+  title = {Imitated Detectors: Stealing Knowledge of Black-box Object Detectors},
+  booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+  year = {2022},
+  pages = {6090--6099},
+  publisher = {ACM},
+  doi = {10.1145/3503161.3548416}
+}
+
+@inproceedings{wu2022model,
+  author = {Wu, Yixin and Wen, Rui and Backes, Michael and Yu, Ning and Zhang, Yang},
+  title = {Model Stealing Attacks Against Vision-Language Models},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2022},
+  publisher = {Curran Associates, Inc.}
+}
+
+@article{yuan2022es,
+  author = {Yuan, Xiaoyong and Ding, Leah and Zhang, Lan and Li, Xiaolin and Wu, Dapeng Oliver},
+  title = {ES Attack: Model Stealing Against Deep Neural Networks Without Data Hurdles},
+  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year = {2022},
+  volume = {6},
+  number = {4},
+  pages = {790--801},
+  doi = {10.1109/TETCI.2022.3161087}
+}
+
+@inproceedings{li2022data,
+  author = {Li, Huiyu and Ayache, Nicholas and Delingette, Hervé},
+  title = {Data Stealing Attack on Medical Images: Is It Safe to Export Networks from Data Lakes?},
+  booktitle = {Distributed, Collaborative, and Federated Learning, and Affordable AI and Healthcare for Resource Diverse Global Health},
+  year = {2022},
+  publisher = {Springer}
+}
+
+@inproceedings{sanyal2022towards,
+  author = {Sanyal, Sunandini and Addepalli, Sravanti and Babu, R. Venkatesh},
+  title = {Towards Data-Free Model Stealing in a Hard Label Setting},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022},
+  pages = {20543--20552}
+}
+
+@inproceedings{khaled2022careful,
+  author = {Khaled, Kacem and Nicolescu, Gabriela and De Magalhães, Felipe Gohring},
+  title = {Careful What You Wish For: on the Extraction of Adversarially Trained Models},
+  booktitle = {2022 19th Annual International Conference on Privacy, Security \& Trust (PST)},
+  year = {2022},
+  pages = {1--10},
+  publisher = {IEEE},
+  doi = {10.1109/PST55215.2022.9851981}
+}
+
+@article{he2022towards,
+  author = {He, Yingzhe and Meng, Guozhu and Chen, Kai and Hu, Xingbo and He, Jinwen},
+  title = {Towards Security Threats of Deep Learning Systems: A Survey},
+  journal = {IEEE Transactions on Software Engineering},
+  year = {2022},
+  volume = {48},
+  number = {11},
+  pages = {4203--4220},
+  doi = {10.1109/TSE.2020.3038641}
+}
+
+@inproceedings{wang2022enhance,
+  author = {Wang, Yixu and Lin, Xianming},
+  title = {Enhance Model Stealing Attack via Label Refining},
+  booktitle = {2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)},
+  year = {2022},
+  pages = {930--934},
+  publisher = {IEEE},
+  doi = {10.1109/ICSP54964.2022.9778562}
+}
+
+@article{liu2022stolenencoder,
+  author = {Liu, Yupei and Jia, Jinyuan and Liu, Hongbin and Gong, Neil Zhenqiang},
+  title = {StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning},
+  journal = {arXiv preprint arXiv:2201.05889},
+  year = {2022}
+}
+
+@article{wang2022demystifying,
+  author = {Wang, Zhendong and Zeng, Xiaoming and Tang, Xulong and Zhang, Danfeng and Hu, Xing and Hu, Yang},
+  title = {Demystifying Arch-hints for Model Extraction: An Attack in Unified Memory System},
+  journal = {arXiv preprint arXiv:2208.13720},
+  year = {2022}
+}
+
+@article{breier2022sniff,
+  author = {Breier, Jakub and Jap, Dirmanto and Hou, Xiaolu and Bhasin, Shivam and Liu, Yang},
+  title = {SNIFF: Reverse Engineering of Neural Networks With Fault Attacks},
+  journal = {IEEE Transactions on Reliability},
+  year = {2022},
+  volume = {71},
+  number = {1},
+  pages = {82--93},
+  doi = {10.1109/TR.2021.3105609}
+}
+
+@inproceedings{dubey2022high,
+  author = {Dubey, Anuj and Karabulut, Emre and Awad, Amro and Aysu, Aydin},
+  title = {High-Fidelity Model Extraction Attacks via Remote Power Monitors},
+  booktitle = {2022 IEEE 4th International Conference on Artificial Intelligence Circuits and Systems (AICAS)},
+  year = {2022},
+  pages = {207--210},
+  publisher = {IEEE},
+  doi = {10.1109/AICAS54282.2022.9869973}
+}
+
+@article{chakraborty2022dynamarks,
+  author = {Chakraborty, Abhishek and Xing, Daniel and Liu, Yuntao and Srivastava, Ankur},
+  title = {DynaMarks: Defending Against Deep Learning Model Extraction Using Dynamic Watermarking},
+  journal = {arXiv preprint arXiv:2207.13321},
+  year = {2022}
+}
+
+@inproceedings{liu2022seinspect,
+  author = {Liu, Xinjing and Ma, Zhuo and Liu, Yang and Qin, Zhan and Zhang, Junwei and Wang, Zhuzhu},
+  title = {SeInspect: Defending Model Stealing via Heterogeneous Semantic Inspection},
+  booktitle = {Computer Security – ESORICS 2022},
+  year = {2022},
+  publisher = {Springer}
+}
+
+@inproceedings{lee2022model,
+  author = {Lee, Jeonghyun and Han, Sungmin and Lee, Sangkyun},
+  title = {Model Stealing Defense against Exploiting Information Leak through the Interpretation of Deep Neural Nets},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence},
+  year = {2022},
+  pages = {719--725},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization}
+}
+
+@article{mazeika2022how,
+  author = {Mazeika, Mantas and Li, Bo and Forsyth, David},
+  title = {How to Steer Your Adversary: Targeted and Efficient Model Stealing Defenses with Gradient Redirection},
+  journal = {arXiv preprint arXiv:2206.14157},
+  year = {2022}
+}
+
+@inproceedings{zhang2021graphmi,
+  author = {Zhang, Zaixi and Liu, Qi and Huang, Zhenya and Wang, Hao and Lu, Chengqiang and Liu, Chuanren and Chen, Enhong},
+  title = {GraphMI: Extracting Private Graph Data from Graph Neural Networks},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence},
+  year = {2021},
+  pages = {3749--3755},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization}
+}
+
+@inproceedings{carlini2021extracting,
+  author = {Carlini, Nicholas and Tram\`{e}r, Florian and Wallace, Eric and Jagielski, Matthew and Herbert-Voss, Ariel and Lee, Katherine and Roberts, Adam and Brown, Tom and Song, Dawn and Erlingsson, \'{U}lfar and Oprea, Alina and Raffel, Colin},
+  title = {Extracting Training Data from Large Language Models},
+  booktitle = {30th USENIX Security Symposium (USENIX Security 21)},
+  year = {2021},
+  pages = {2633--2650},
+  publisher = {USENIX Association}
+}
+
+@article{He2020StealingLF,
+  title={Stealing Links from Graph Neural Networks},
+  author={Xinlei He and Jinyuan Jia and Michael Backes and Neil Zhenqiang Gong and Yang Zhang},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2005.02131},
+  url={https://api.semanticscholar.org/CorpusID:218502486}
+}
+
+
+@inproceedings{truong2021data,
+  author = {Truong, Jean-Baptiste and Maini, Pratyush and Walls, Robert J. and Papernot, Nicolas},
+  title = {Data-Free Model Extraction},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2021},
+  pages = {4322--4332}
+}
+
+@article{he2021model,
+  author = {He, Xuanli and Lyu, Lingjuan and Xu, Qiongkai and Sun, Lichao},
+  title = {Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!},
+  journal = {arXiv preprint arXiv:2103.10013},
+  year = {2021}
+}
+
+@article{wu2021model,
+  author = {Wu, Bang and Yang, Xiangwen and Pan, Shirui and Yuan, Xingliang},
+  title = {Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realization},
+  journal = {arXiv preprint arXiv:2010.12751},
+  year = {2021}
+}
+
+@inproceedings{zhao2021watermarking,
+  author = {Zhao, Xiangyu and Wu, Hanzhou and Zhang, Xinpeng},
+  title = {Watermarking Graph Neural Networks by Random Graphs},
+  booktitle = {2021 9th International Symposium on Digital Forensics and Security (ISDFS)},
+  year = {2021},
+  pages = {1--6},
+  publisher = {IEEE},
+  doi = {10.1109/ISDFS52919.2021.9486258}
+}
+
+@article{aivodji2020model,
+title={Model Extraction from Counterfactual Explanations},
+author={Aivodji, Ulrich and Bolot, Alexandre and Gambs, S{'e}bastien},
+journal={arXiv preprint arXiv:2009.01884},
+year={2020},
+url={https://arxiv.org/abs/2009.01884}
+}
+
+@article{shen2021model,
+  author = {Shen, Yun and He, Xinlei and Han, Yufei and Zhang, Yang},
+  title = {Model Stealing Attacks Against Inductive Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2112.08331},
+  year = {2021}
+}
+
+@inproceedings{gao2021tenet,
+  author = {Gao, Chengsi and Li, Bing and Wang, Ying and Chen, Weiwei and Zhang, Lei},
+  title = {Tenet: A Neural Network Model Extraction Attack in Multi-Core Architecture},
+  booktitle = {Proceedings of the 2021 Great Lakes Symposium on VLSI},
+  year = {2021},
+  pages = {203--208},
+  publisher = {ACM},
+  doi = {10.1145/3453688.3461512}
+}
+
+@inproceedings{wu2021towards,
+  author = {Wu, Bang and Pan, Shirui and Yuan, Xingliang},
+  title = {Towards Extracting Graph Neural Network Models via Prediction Queries (Student Abstract)},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year = {2021},
+  volume = {35},
+  number = {18},
+  pages = {15948--15949}
+}
+@inproceedings{Hu_2020, series={ASPLOS ’20},
+   title={DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints},
+   url={http://dx.doi.org/10.1145/3373376.3378460},
+   DOI={10.1145/3373376.3378460},
+   booktitle={Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems},
+   publisher={ACM},
+   author={Hu, Xing and Liang, Ling and Li, Shuangchen and Deng, Lei and Zuo, Pengfei and Ji, Yu and Xie, Xinfeng and Ding, Yufei and Liu, Chang and Sherwood, Timothy and Xie, Yuan},
+   year={2020},
+   month=mar, collection={ASPLOS ’20} }
+
+@inproceedings {Batina2019reverse,
+author = {Lejla Batina and Shivam Bhasin and Dirmanto Jap and Stjepan Picek},
+title = {{CSI} {NN}: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel},
+booktitle = {28th USENIX Security Symposium (USENIX Security 19)},
+year = {2019},
+isbn = {978-1-939133-06-9},
+address = {Santa Clara, CA},
+pages = {515--532},
+url = {https://www.usenix.org/conference/usenixsecurity19/presentation/batina},
+publisher = {USENIX Association},
+month = aug
+}
+
+@misc{
+wu2023model,
+title={Model Stealing Attacks Against Vision-Language Models},
+author={Yixin Wu and Rui Wen and Michael Backes and Ning Yu and Yang Zhang},
+year={2023},
+url={https://openreview.net/forum?id=v-rx235RlfI}
+}
+
+@inproceedings {Yan2020cache,
+author = {Mengjia Yan and Christopher W. Fletcher and Josep Torrellas},
+title = {Cache Telepathy: Leveraging Shared Resource Attacks to Learn {DNN} Architectures},
+booktitle = {29th USENIX Security Symposium (USENIX Security 20)},
+year = {2020},
+isbn = {978-1-939133-17-5},
+pages = {2003--2020},
+url = {https://www.usenix.org/conference/usenixsecurity20/presentation/yan},
+publisher = {USENIX Association},
+month = aug
+}
+@article{takemura2020model,
+title={Model Extraction Attacks against Recurrent Neural Networks},
+author={Takemura, Tatsuya and Yanai, Naoto and Fujiwara, Toru},
+journal={arXiv preprint arXiv:2002.00123},
+year={2020},
+url={https://arxiv.org/abs/2002.00123}
+}
+
+@misc{wei2020frameworkevaluatinggradientleakage,
+      title={A Framework for Evaluating Gradient Leakage Attacks in Federated Learning}, 
+      author={Wenqi Wei and Ling Liu and Margaret Loper and Ka-Ho Chow and Mehmet Emre Gursoy and Stacey Truex and Yanzhao Wu},
+      year={2020},
+      eprint={2004.10397},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2004.10397}, 
+}
+
+@article{mori2021bodame,
+  author = {Mori, Yuto and Nitanda, Atsushi and Takeda, Akiko},
+  title = {BODAME: Bilevel Optimization for Defense Against Model Extraction},
+  journal = {arXiv preprint arXiv:2103.06797},
+  year = {2021}
+}
+
+@article{zhang2021graphmi,
+  author = {Zhang, Zaixi and Liu, Qi and Huang, Zhenya and Wang, Hao and Lu, Chengqiang and Liu, Chuanren and Chen, Enhong},
+  title = {GraphMI: Extracting Private Graph Data from Graph Neural Networks},
+  journal = {arXiv preprint arXiv:2106.02820},
+  year = {2021}
+}
+
+@article{maungmaung2021protection,
+  author = {Maungmaung, AprilPyone and Kiya, Hitoshi},
+  title = {A protection method of trained CNN model with a secret key from unauthorized access},
+  journal = {APSIPA Transactions on Signal and Information Processing},
+  volume = {10},
+  pages = {e15},
+  year = {2021},
+  doi = {10.1017/ATSIP.2021.13}
+}
+
+@inproceedings{wolf2021stealing,
+  author = {Wolf, Shaya and Hu, Hui and Cooley, Rafer and Borowczak, Mike},
+  title = {Stealing Machine Learning Parameters via Side Channel Power Attacks},
+  booktitle = {2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
+  year = {2021},
+  pages = {425--430},
+  publisher = {IEEE},
+  doi = {10.1109/ISVLSI51109.2021.00082}
+}
+
+@inproceedings{hu2021stealing,
+  author = {Hu, Hailong and Pang, Jun},
+  title = {Stealing Machine Learning Models: Attacks and Countermeasures for Generative Adversarial Networks},
+  booktitle = {Proceedings of the 37th Annual Computer Security Applications Conference},
+  year = {2021},
+  pages = {690--704},
+  publisher = {ACM},
+  doi = {10.1145/3485832.3485838}
+}
+
+@article{zhang2021thief,
+  author = {Zhang, Xinyi and Fang, Chengfang and Shi, Jie},
+  title = {Thief, Beware of What Get You There: Towards Understanding Model Extraction Attack},
+  journal = {arXiv preprint arXiv:2104.05921},
+  year = {2021}
+}
+
+@inproceedings{zhang2021seat,
+  author = {Zhang, Zhanyuan and Chen, Yizheng and Wagner, David},
+  title = {SEAT: Similarity Encoder by Adversarial Training for Detecting Model Extraction Attack Queries},
+  booktitle = {Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security},
+  year = {2021},
+  pages = {83--94},
+  publisher = {ACM},
+  doi = {10.1145/3474369.3486863}
+}
+
+@inproceedings{barbalau2020black,
+title={Black-Box Ripper: Copying black-box models using generative evolutionary algorithms},
+author={B{\u{a}}rb{\u{a}}lau, Antonio and Cosma, Adrian and Ionescu, Radu Tudor and Popescu, Marius},
+booktitle={Advances in Neural Information Processing Systems},
+volume={33},
+pages={20525--20537},
+year={2020},
+url={https://proceedings.neurips.cc/paper/2020/hash/e8d66338fab3727e34a9179ed8804f64-Abstract.html}
+}
+
+@inproceedings{chen2021stealing,
+  author = {Chen, Kangjie and Guo, Shangwei and Zhang, Tianwei and Xie, Xiaofei and Liu, Yang},
+  title = {Stealing Deep Reinforcement Learning Models for Fun and Profit},
+  booktitle = {Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security},
+  year = {2021},
+  pages = {375--389},
+  publisher = {ACM},
+  doi = {10.1145/3433210.3453090}
+}
+
+@inproceedings{yue2021black,
+  author = {Yue, Zhenrui and He, Zhankui and Zeng, Huimin and McAuley, Julian},
+  title = {Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction},
+  booktitle = {Proceedings of the 15th ACM Conference on Recommender Systems},
+  year = {2021},
+  pages = {44--54},
+  publisher = {ACM},
+  doi = {10.1145/3460231.3474275}
+}
+
+@article{miao2021machine,
+  author = {Miao, Yuantian and Chen, Chao and Pan, Lei and Han, Qing-Long and Zhang, Jun and Xiang, Yang},
+  title = {Machine Learning--based Cyber Attacks Targeting on Controlled Information: A Survey},
+  journal = {ACM Computing Surveys},
+  volume = {54},
+  number = {7},
+  pages = {1--36},
+  year = {2021},
+  doi = {10.1145/3465171}
+}
+
+@inproceedings{jia2021entangled,
+  author = {Jia, Hengrui and Choquette-Choo, Christopher A. and Chandrasekaran, Varun and Papernot, Nicolas},
+  title = {Entangled Watermarks as a Defense against Model Extraction},
+  booktitle = {30th USENIX Security Symposium (USENIX Security 21)},
+  year = {2021},
+  pages = {1937--1954},
+  publisher = {USENIX Association}
+}
+
+@article{pal2021stateful,
+  author = {Pal, Soham and Gupta, Yash and Kanade, Aditya and Shevade, Shirish},
+  title = {Stateful Detection of Model Extraction Attacks},
+  journal = {arXiv preprint arXiv:2107.05166},
+  year = {2021}
+}
+
+@article{hu2021model,
+  author = {Hu, Hailong and Pang, Jun},
+  title = {Model Extraction and Defenses on Generative Adversarial Networks},
+  journal = {arXiv preprint arXiv:2101.02069},
+  year = {2021}
+}
+
+@inproceedings{li2021neurobfuscator,
+  author = {Li, Jingtao and He, Zhezhi and Rakin, Adnan Siraj and Fan, Deliang and Chakrabarti, Chaitali},
+  title = {NeurObfuscator: A Full-stack Obfuscation Tool to Mitigate Neural Architecture Stealing},
+  booktitle = {2021 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)},
+  year = {2021},
+  pages = {199--209},
+  publisher = {IEEE},
+  doi = {10.1109/HOST49136.2021.9702279}
+}
+
+@inproceedings{chandrasekaran2020exploring,
+title={Exploring Connections Between Active Learning and Model Extraction},
+author={Chandrasekaran, Varun and Chaudhuri, Kamalika and Giacomelli, Irene and Jha, Somesh and Yan, Songbai},
+booktitle={29th USENIX Security Symposium (USENIX Security 20)},
+pages={1309--1326},
+year={2020},
+organization={USENIX Association},
+url={https://www.usenix.org/conference/usenixsecurity20/presentation/chandrasekaran}
+}
+
+@inproceedings{pal2020activethief,
+title={ActiveThief: Model Extraction Using Active Learning and Unannotated Public Data},
+author={Pal, Soham and Gupta, Yash and Shukla, Aditya and Kanade, Aditya and Shevade, Shirish and Ganapathy, Vinod},
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+volume={34},
+number={01},
+pages={865--872},
+year={2020},
+doi={10.1609/aaai.v34i01.5427}
+}
+
+@inproceedings{chen2021das,
+  author = {Chen, Jinyin and Wu, Changan and Shen, Shijing and Zhang, Xuhong and Chen, Jianhao},
+  title = {DAS-AST: Defending Against Model Stealing Attacks Based on Adaptive Softmax Transformation},
+  booktitle = {Information Security and Cryptology},
+  year = {2021},
+  publisher = {Springer}
+}
+
+@article{zhang2021stealing,
+  author = {Zhang, Yicheng and Yasaei, Rozhin and Chen, Hao and Li, Zhou and Faruque, Mohammad Abdullah Al},
+  title = {Stealing Neural Network Structure Through Remote FPGA Side-Channel Analysis},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  volume = {16},
+  pages = {5241--5254},
+  year = {2021},
+  doi = {10.1109/TIFS.2021.3110864}
+}
+
+@article{yan2023explanation,
+  title={Explanation leaks: Explanation-guided model extraction attacks},
+  author={Yan, Anli and Huang, Teng and Ke, Lishan and Liu, Xiaozhang and Chen, Qi and Dong, Changyu},
+  journal={Information Sciences},
+  year={2023},
+  url={https://www.sciencedirect.com/science/article/pii/S002002552300316X}
+}
+
+@article{liu2023membership,
+  title={Membership Inference Attacks Against Machine Learning Models via Prediction Sensitivity},
+  author={Liu, Lan and Wang, Yi and Liu, Gaoyang and Peng, Kai and Wang, Chen},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2023},
+  url={https://ieeexplore.ieee.org/document/9793586}
+}
+
+@article{dong2023fairness,
+  title={Fairness in Graph Mining: A Survey},
+  author={Dong, Yushun and Ma, Jing and Wang, Song and Chen, Chen and Li, Jundong},
+  year={2023},
+  url={http://arxiv.org/abs/2204.09888}
+}
+
+@article{sun2023adversarial,
+  title={Adversarial Attack and Defense on Graph Data: A Survey},
+  author={Sun, Lichao and Dou, Yingtong and Yang, Carl and Zhang, Kai and Wang, Ji and Yu, Philip S. and He, Lifang and Li, Bo},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/9878092}
+}
+
+@article{birch2023model,
+  title={Model Leeching: An Extraction Attack Targeting LLMs},
+  author={Birch, Lewis and Hackett, William and Trawicki, Stefan and Suri, Neeraj and Garraghan, Peter},
+  year={2023},
+  url={http://arxiv.org/abs/2309.10544}
+}
+
+@article{patil2023can,
+  title={Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks},
+  author={Patil, Vaidehi and Hase, Peter and Bansal, Mohit},
+  year={2023},
+  url={http://arxiv.org/abs/2309.17410}
+}
+
+@inproceedings{li2018query,
+title={Query-Efficient Black-Box Attack by Active Learning},
+author={Li, Pengcheng and Yi, Jinfeng and Zhang, Lijun},
+booktitle={2018 IEEE International Conference on Data Mining (ICDM)},
+pages={1200--1205},
+year={2018},
+organization={IEEE},
+doi={10.1109/ICDM.2018.00159}
+}
+
+@article{li2023theoretical,
+  title={A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer},
+  author={Li, Chenyang and Song, Zhao and Wang, Weixin and Yang, Chiwun},
+  year={2023},
+  url={http://arxiv.org/abs/2311.13624}
+}
+@unknown{unknown,
+author = {Mwiinga, Preston},
+year = {2023},
+month = {07},
+pages = {},
+title = {Investigating the Far-Reaching Consequences of Cybercrime A Case Study on the Impact in Lusaka},
+doi = {10.13140/RG.2.2.15525.68329}
+}
+
+@inproceedings{duan2023are,
+author = {Duan, Jinhao and Kong, Fei and Wang, Shiqi and Shi, Xiaoshuang and Xu, Kaidi},
+title = {Are diffusion models vulnerable to membership inference attacks?},
+year = {2023},
+publisher = {JMLR.org},
+booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+articleno = {349},
+numpages = {14},
+series = {ICML'23}
+}
+
+@article{zhang2023ethicist,
+  title={Ethicist: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation},
+  author={Zhang, Zhexin and Wen, Jiaxin and Huang, Minlie},
+  year={2023},
+  url={http://arxiv.org/abs/2307.04401}
+}
+
+@article{li2023model,
+  title={Model Extraction Attacks on Split Federated Learning},
+  author={Li, Jingtao and Rakin, Adnan Siraj and Chen, Xing and Yang, Li and He, Zhezhi and Fan, Deliang and Chakrabarti, Chaitali},
+  year={2023},
+  url={http://arxiv.org/abs/2303.08581}
+}
+
+@inproceedings{boenisch2023when,
+  title={When the Curious Abandon Honesty: Federated Learning Is Not Private},
+  author={Boenisch, Franziska and Dziedzic, Adam and Schuster, Roei and Shamsabadi, Ali Shahin and Shumailov, Ilia and Papernot, Nicolas},
+  booktitle={2023 IEEE 8th European Symposium on Security and Privacy (EuroS\&P)},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10190537}
+}
+
+@article{waheed2023grove,
+  title={GrOVe: Ownership Verification of Graph Neural Networks using Embeddings},
+  author={Waheed, Asim and Duddu, Vasisht and Asokan, N.},
+  year={2023},
+  url={http://arxiv.org/abs/2304.08566}
+}
+
+@article{wang2023making,
+  title={Making Watermark Survive Model Extraction Attacks in Graph Neural Networks},
+  author={Wang, Haiming and Zhang, Zhikun and Chen, Min and He, Shibo},
+  year={2023}
+}
+
+@article{zhang2023survey,
+  title={A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications},
+  author={Zhang, Yi and Zhao, Yuying and Li, Zhaoqing and Cheng, Xueqi and Wang, Yu and Kotevska, Olivera and Yu, Philip S. and Derr, Tyler},
+  year={2023},
+  url={http://arxiv.org/abs/2308.16375}
+}
+
+@article{dai2023comprehensive,
+  title={A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability},
+  author={Dai, Enyan and Zhao, Tianxiang and Zhu, Huaisheng and Xu, Junjie and Guo, Zhimeng and Liu, Hui and Tang, Jiliang and Wang, Suhang},
+  year={2023},
+  url={http://arxiv.org/abs/2204.08570}
+}
+
+@inproceedings{zhang2023extracting,
+  title={Extracting Privacy-Preserving Subgraphs in Federated Graph Learning using Information Bottleneck},
+  author={Zhang, Chenhan and Wang, Weiqi and Yu, James J.Q. and Yu, Shui},
+  booktitle={Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security},
+  year={2023},
+  url={https://doi.org/10.1145/3579856.3595791}
+}
+
+@article{zhang2023plot,
+  title={A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots},
+  author={Zhang, Boyang and He, Xinlei and Shen, Yun and Wang, Tianhao and Zhang, Yang},
+  year={2023},
+  url={http://arxiv.org/abs/2302.11982}
+}
+
+
+
+@article{olatunji2023private,
+  title={Private Graph Extraction via Feature Explanations},
+  author={Olatunji, Iyiola E. and Rathee, Mandeep and Funke, Thorben and Khosla, Megha},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  year={2023},
+  url={http://arxiv.org/abs/2206.14724}
+}
+
+@inproceedings{sajadmanesh2023gap,
+  title={{GAP}: Differentially Private Graph Neural Networks with Aggregation Perturbation},
+  author={Sajadmanesh, Sina and Shamsabadi, Ali Shahin and Bellet, Aur\'{e}lien and Gatica-Perez, Daniel},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+  year={2023},
+  url={https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh}
+}
+
+@article{zhu2023model,
+  title={Model Stealing Attack against Graph Classification with Authenticity, Uncertainty and Diversity},
+  author={Zhu, Zhihao and Wu, Chenwang and Fan, Rui and Yang, Yi and Lian, Defu and Chen, Enhong},
+  year={2023},
+  url={http://arxiv.org/abs/2312.10943}
+}
+
+@inproceedings{karmakar2023marich,
+  title={Marich: A Query-efficient Distributionally Equivalent Model Extraction Attack},
+  author={Karmakar, Pratik and Basu, Debabrota},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023},
+  url={https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5440ffceaf4831b5f98652b8a27ffde-Abstract-Conference.html}
+}
+
+@inproceedings{wang2023defending,
+  title={Defending against Data-Free Model Extraction by Distributionally Robust Defensive Training},
+  author={Wang, Zhenyi and Shen, Li and Liu, Tongliang and Duan, Tiehang and Zhu, Yanjun and Zhan, Donglin and Doermann, David and Gao, Mingchen},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023},
+  url={https://proceedings.neurips.cc/paper_files/paper/2023/hash/0207c9ea9faf66c6e892c3fa3c167b75-Abstract-Conference.html}
+}
+
+@inproceedings{tang2023exposing,
+  title={Exposing Model Theft: A Robust and Transferable Watermark for Thwarting Model Extraction Attacks},
+  author={Tang, Ruixiang and Jin, Hongye and Du, Mengnan and Wigington, Curtis and Jain, Rajiv and Hu, Xia},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  year={2023},
+  url={https://doi.org/10.1145/3583780.3615211}
+}
+
+@article{oliynyk2023know,
+  title={I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences},
+  author={Oliynyk, Daryna and Mayer, Rudolf and Rauber, Andreas},
+  journal={ACM Computing Surveys},
+  year={2023},
+  url={https://doi.org/10.1145/3595292}
+}
+
+@article{li2023defending,
+  title={Defending against model extraction attacks with physical unclonable function},
+  author={Li, Dawei and Liu, Di and Guo, Ying and Ren, Yangkun and Su, Jieyu and Liu, Jianwei},
+  journal={Information Sciences},
+  year={2023},
+  url={https://www.sciencedirect.com/science/article/pii/S0020025523001147}
+}
+
+@inproceedings{guo2023isolation,
+  title={Isolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks},
+  author={Guo, Jun and Zheng, Xingyu and Liu, Aishan and Liang, Siyuan and Xiao, Yisong and Wu, Yichao and Liu, Xianglong},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2023},
+  url={https://doi.org/10.1145/3581783.3612092}
+}
+
+@article{zhang2023apmsa,
+  title={APMSA: Adversarial Perturbation Against Model Stealing Attacks},
+  author={Zhang, Jiliang and Peng, Shuang and Gao, Yansong and Zhang, Zhi and Hong, Qinghui},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10049136}
+}
+
+@inproceedings{chen2023ddae,
+  title={D-DAE: Defense-Penetrating Model Extraction Attacks},
+  author={Chen, Yanjiao and Guan, Rui and Gong, Xueluan and Dong, Jianshuo and Xue, Meng},
+  booktitle={2023 IEEE Symposium on Security and Privacy (SP)},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10179406}
+}
+
+@article{szyller2023good,
+  title={Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Models},
+  author={Szyller, Sebastian and Duddu, Vasisht and Gr\"{o}ndahl, Tommi and Asokan, N.},
+  year={2023},
+  url={http://arxiv.org/abs/2104.12623}
+}
+
+@inproceedings{tan2023deep,
+  title={Deep Neural Network Watermarking against Model Extraction Attack},
+  author={Tan, Jingxuan and Zhong, Nan and Qian, Zhenxing and Zhang, Xinpeng and Li, Sheng},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2023},
+  url={https://doi.org/10.1145/3581783.3612515}
+}
+
+@inproceedings{dubinski2023bucks,
+  title={Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders},
+  author={Dubi\'{n}ski, Jan and Pawlak, Stanis{\l}aw and Boenisch, Franziska and Trzci\'{n}ski, Tomasz and Dziedzic, Adam},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023},
+  url={https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad1efab57a04d93f097e7fbb2d4fc054-Abstract-Conference.html}
+}
+
+@article{oksuz2023autolycus,
+  title={AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models},
+  author={Oksuz, Abdullah Caglar and Halimi, Anisa and Ayday, Erman},
+  year={2023},
+  url={http://arxiv.org/abs/2302.02162}
+}
+
+@article{yang2023efficient,
+  title={Efficient Model Extraction by Data Set Stealing, Balancing, and Filtering},
+  author={Yang, Panpan and Wu, Qinglong and Zhang, Xinming},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10214537}
+}
+
+@article{ma2023divtheft,
+  title={DivTheft: An Ensemble Model Stealing Attack by Divide-and-Conquer},
+  author={Ma, Zhuo and Liu, Xinjing and Liu, Yang and Liu, Ximeng and Qin, Zhan and Ren, Kui},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10007048}
+}
+
+@article{zhang2023categorical,
+  title={Categorical Inference Poisoning: Verifiable Defense Against Black-Box DNN Model Stealing Without Constraining Surrogate Data and Query Times},
+  author={Zhang, Haitian and Hua, Guang and Wang, Xinya and Jiang, Hao and Yang, Wen},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  url={https://ieeexplore.ieee.org/abstract/document/10042038}
+}
+
+@article{lederer2023identifying,
+  title={Identifying Appropriate Intellectual Property Protection Mechanisms for Machine Learning Models: A Systematization of Watermarking, Fingerprinting, Model Access, and Attacks},
+  author={Lederer, Isabell and Mayer, Rudolf and Rauber, Andreas},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  url={https://ieeexplore.ieee.org/document/10143370}
+}
+
+@article{hu2022membership,
+  title={Membership Inference Attacks on Machine Learning: A Survey},
+  author={Hu, Hongsheng and Salcic, Zoran and Sun, Lichao and Dobbie, Gillian and Yu, Philip S. and Zhang, Xuyun},
+  journal={ACM Computing Surveys},
+  year={2022},
+  url={https://doi.org/10.1145/3523273}
+}
+
+@article{parikh2022canary,
+  title={Canary Extraction in Natural Language Understanding Models},
+  author={Parikh, Rahil and Dupuy, Christophe and Gupta, Rahul},
+  year={2022},
+  url={http://arxiv.org/abs/2203.13920}
+}
+
+@article{huang2022are,
+  title={Are Large Pre-Trained Language Models Leaking Your Personal Information?},
+  author={Huang, Jie and Shao, Hanyin and Chang, Kevin Chen-Chuan},
+  year={2022},
+  url={http://arxiv.org/abs/2205.12628}
+}
+
+@article{zhang2022text,
+  title={Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers},
+  author={Zhang, Ruisi and Hidano, Seira and Koushanfar, Farinaz},
+  year={2022},
+  url={http://arxiv.org/abs/2209.10505}
+}
+
+@inproceedings{lee2022precise,
+  title={Precise Extraction of Deep Learning Models via Side-Channel Attacks on Edge/Endpoint Devices},
+  author={Lee, Younghan and Jun, Sohee and Cho, Yungi and Han, Woorim and Moon, Hyungon and Paek, Yunheung},
+  booktitle={Computer Security -- ESORICS 2022},
+  year={2022}
+}
+
+@article{lyu2022privacy,
+  title={Privacy and Robustness in Federated Learning: Attacks and Defenses},
+  author={Lyu, Lingjuan and Yu, Han and Ma, Xingjun and Chen, Chen and Sun, Lichao and Zhao, Jun and Yang, Qiang and Yu, Philip S.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  url={https://ieeexplore.ieee.org/abstract/document/9945997}
+}
+
+@article{wainakh2022user,
+  title={User-Level Label Leakage from Gradients in Federated Learning},
+  author={Wainakh, Aidmar and Ventola, Fabrizio and M\"{u}{\ss}ig, Till and Keim, Jens and Cordero, Carlos Garcia and Zimmer, Ephraim and Grube, Tim and Kersting, Kristian and M\"{u}hlh\"{a}user, Max},
+  year={2022},
+  url={http://arxiv.org/abs/2105.09369}
+}
+
+@article{xu2022student,
+  title={Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs},
+  author={Xu, Qiongkai and He, Xuanli and Lyu, Lingjuan and Qu, Lizhen and Haffari, Gholamreza},
+  year={2022},
+  url={http://arxiv.org/abs/2108.13873}
+}
+
+@article{chen2021killing,
+  title={Killing One Bird with Two Stones: Model Extraction and Attribute Inference Attacks against BERT-based APIs},
+  author={Chen, Chen and He, Xuanli and Lyu, Lingjuan and Wu, Fangzhao},
+  year={2021},
+  url={http://arxiv.org/abs/2105.10909}
+}
+
+@inproceedings{zhu2021hermes,
+  title={Hermes Attack: Steal {DNN} Models with Lossless Inference Accuracy},
+  author={Zhu, Yuankun and Cheng, Yueqiang and Zhou, Husheng and Lu, Yantao},
+  booktitle={30th USENIX Security Symposium (USENIX Security 21)},
+  year={2021},
+  url={https://www.usenix.org/conference/usenixsecurity21/presentation/zhu}
+}
+
+@article{lukas2021deep,
+  title={Deep Neural Network Fingerprinting by Conferrable Adversarial Examples},
+  author={Lukas, Nils and Zhang, Yuxuan and Kerschbaum, Florian},
+  year={2021},
+  url={http://arxiv.org/abs/1912.00888}
+}
+
+@article{miura2021megex,
+  title={MEGEX: Data-Free Model Extraction Attack against Gradient-Based Explainable AI},
+  author={Miura, Takayuki and Hasegawa, Satoshi and Shibahara, Toshiki},
+  year={2021},
+  url={http://arxiv.org/abs/2107.08909}
+}
+
+@inproceedings{he2021model,
+  title={Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!},
+  author={He, Xuanli and Lyu, Lingjuan and Sun, Lichao and Xu, Qiongkai},
+  booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  year={2021},
+  pages={2006--2012},
+  url={https://aclanthology.org/2021.naacl-main.161}
+}
+
+@inproceedings{aarts2021leveraging,
+  title={Leveraging Partial Model Extractions using Uncertainty Quantification},
+  author={Aarts, Arne and Michiels, Wil and Roelse, Peter},
+  booktitle={2021 IEEE 10th International Conference on Cloud Networking (CloudNet)},
+  year={2021},
+  pages={1--6},
+  organization={IEEE},
+  url={https://ieeexplore.ieee.org/document/9657130}
+}
+
+@inproceedings{li2021model,
+  title={Model Extraction and Adversarial Attacks on Neural Networks Using Switching Power Information},
+  author={Li, Tommy and Merkel, Cory},
+  booktitle={Artificial Neural Networks and Machine Learning -- ICANN 2021},
+  year={2021},
+  publisher={Springer}
+}
+
+@article{maini2021dataset,
+  title={Dataset Inference: Ownership Resolution in Machine Learning},
+  author={Maini, Pratyush and Yaghini, Mohammad and Papernot, Nicolas},
+  year={2021},
+  url={http://arxiv.org/abs/2104.10706}
+}
+
+@inproceedings{szyller2021dawn,
+  title={DAWN: Dynamic Adversarial Watermarking of Neural Networks},
+  author={Szyller, Sebastian and Atli, Buse Gul and Marchal, Samuel and Asokan, N.},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  year={2021},
+  pages={4417--4425},
+  url={https://doi.org/10.1145/3474085.3475591}
+}
+
+@inproceedings{zhang2019data,
+  author = {Zhang, Hengtong and Zheng, Tianhang and Gao, Jing and Miao, Chenglin and Su, Lu and Li, Yaliang and Ren, Kui},
+  title = {Data Poisoning Attack against Knowledge Graph Embedding},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence},
+  year = {2019},
+  pages = {4853--4859},
+  url = {https://www.ijcai.org/proceedings/2019/674}
+}
+
+@article{wu2019adversarial,
+  author = {Wu, Huijun and Wang, Chen and Tyshetskiy, Y. and Docherty, Andrew and Lu, Kai and Zhu, Liming},
+  title = {Adversarial Examples on Graph Data: Deep Insights into Attack and Defense},
+  journal = {arXiv preprint arXiv:1903.01610},
+  year = {2019},
+  url = {https://www.semanticscholar.org/paper/Adversarial-Examples-on-Graph-Data%3A-Deep-Insights-Wu-Wang/26a0e0d17910c6676fcfa1cebe0cb7f5cd17080c}
+}
+
+@article{wang2019mcne,
+  author = {Wang, Hao and Xu, Tong and Liu, Qi and Lian, Defu and Chen, Enhong and Du, Dongfang and Wu, Han and Su, Wen},
+  title = {MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network},
+  journal = {arXiv preprint arXiv:1905.11013},
+  year = {2019},
+  url = {http://arxiv.org/abs/1905.11013}
+}
+
+@inproceedings{lee2019defending,
+  author = {Lee, Taesung and Edwards, Benjamin and Molloy, Ian and Su, Dong},
+  title = {Defending Against Neural Network Model Stealing Attacks Using Deceptive Perturbations},
+  booktitle = {2019 IEEE Security and Privacy Workshops (SPW)},
+  year = {2019},
+  pages = {43--49},
+  organization = {IEEE},
+  url = {https://ieeexplore.ieee.org/document/8844598}
+}
+
+@article{duddu2019stealing,
+  author = {Duddu, Vasisht and Samanta, Debasis and Rao, D. Vijay and Balas, Valentina E.},
+  title = {Stealing Neural Networks via Timing Side Channels},
+  journal = {arXiv preprint arXiv:1812.11720},
+  year = {2019},
+  url = {http://arxiv.org/abs/1812.11720}
+}
+
+@inproceedings{juuti2019prada,
+  author = {Juuti, Mika and Szyller, Sebastian and Marchal, Samuel and Asokan, N.},
+  title = {PRADA: Protecting Against DNN Model Stealing Attacks},
+  booktitle = {2019 IEEE European Symposium on Security and Privacy (EuroS\&P)},
+  year = {2019},
+  pages = {512--527},
+  organization = {IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/8806737}
+}
+
+@inproceedings{zheng2019bdpl,
+  author = {Zheng, Huadi and Ye, Qingqing and Hu, Haibo and Fang, Chengfang and Shi, Jie},
+  title = {BDPL: A Boundary Differentially Private Layer Against Machine Learning Model Extraction Attacks},
+  booktitle = {Computer Security -- ESORICS 2019},
+  year = {2019},
+  publisher = {Springer}
+}
+
+@article{pal2019framework,
+  author = {Pal, Soham and Gupta, Yash and Shukla, Aditya and Kanade, Aditya and Shevade, Shirish and Ganapathy, Vinod},
+  title = {A framework for the extraction of Deep Neural Networks by leveraging public data},
+  journal = {arXiv preprint arXiv:1905.09165},
+  year = {2019},
+  url = {http://arxiv.org/abs/1905.09165}
+}
+
+@article{defazio2019adversarial,
+  author = {DeFazio, David and Ramesh, Arti},
+  title = {Adversarial Model Extraction on Graph Neural Networks},
+  journal = {arXiv preprint arXiv:1912.07721},
+  year = {2019},
+  url = {http://arxiv.org/abs/1912.07721}
+}
+
+@inproceedings{reith2019efficiently,
+  author = {Reith, Robert Nikolai and Schneider, Thomas and Tkachenko, Oleksandr},
+  title = {Efficiently Stealing your Machine Learning Models},
+  booktitle = {Proceedings of the 18th ACM Workshop on Privacy in the Electronic Society},
+  year = {2019},
+  pages = {198--210},
+  url = {https://doi.org/10.1145/3338498.3358646}
+}
+
+@inproceedings{joshi2019gdalr,
+  author = {Joshi, Nikhil and Tammana, Rewanth},
+  title = {GDALR: An Efficient Model Duplication Attack on Black Box Machine Learning Models},
+  booktitle = {2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN)},
+  year = {2019},
+  pages = {1--5},
+  organization = {IEEE},
+  url = {https://ieeexplore.ieee.org/document/8878726}
+}
+
+@inproceedings{krishna2020thieves,
+title={Thieves on Sesame Street! Model Extraction of BERT-based APIs},
+author={Krishna, Kalpesh and Tomar, Gaurav Singh and Parikh, Ankur P and Papernot, Nicolas and Iyyer, Mohit},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=Byl5NREFDr}
+}
+
+@article{mosafi2019stealing,
+  author = {Mosafi, Itay and David, Eli and Netanyahu, Nathan S.},
+  title = {Stealing Knowledge from Protected Deep Neural Networks Using Composite Unlabeled Data},
+  journal = {arXiv preprint arXiv:1912.03959},
+  year = {2019},
+  url = {http://arxiv.org/abs/1912.03959}
+}
+
+@inproceedings{orekondy2019knockoff,
+  author = {Orekondy, Tribhuvanesh and Schiele, Bernt and Fritz, Mario},
+  title = {Knockoff Nets: Stealing Functionality of Black-Box Models},
+  booktitle = {2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2019},
+  pages = {4949--4958},
+  organization = {IEEE},
+  url = {https://ieeexplore.ieee.org/document/8953839}
+}
+
+@article{xu2019topology,
+  title={Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective},
+  author={Xu, Kaidi and Chen, Hongge and Liu, Sijia and Chen, Pin-Yu and Weng, Tsui-Wei and Hong, Mingyi and Lin, Xue},
+  journal={arXiv preprint arXiv:1906.04214},
+  year={2019},
+  url={https://arxiv.org/abs/1906.04214}
+}
+
+@inproceedings{zhuang2024unveiling,
+  title={Unveiling the Secrets without Data: Can Graph Neural Networks Be Exploited through Data-Free Model Extraction Attacks?},
+  author={Zhuang, Jiawei and Zhang, Qi and Zhang, Chuxu},
+  booktitle={31st USENIX Security Symposium (USENIX Security 24)},
+  year={2024},
+  url={https://www.usenix.org/conference/usenixsecurity24/presentation/zhuang}
+}
+
+@article{zhang2023survey,
+  title={A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly},
+  author={Zhang, Yifan and Wang, Xiaoyu and Yang, Tianyi and Hu, Weiqiang and Li, Jian and Wang, Lijun and Hu, Yiqiao and Kui, Ren},
+  journal={Artificial Intelligence Review},
+  year={2023},
+  url={https://www.sciencedirect.com/science/article/pii/S266729522400014X}
+}
+
+@inproceedings{nayan2024sok,
+  title={SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice},
+  author={Nayan, Sahil and Sharma, Bhoomika and Talebi, Sepehr and Zhu, Tianming and Ren, Kui and Sharma, Divyakant and Yu, Yifan},
+  booktitle={31st USENIX Security Symposium (USENIX Security 24)},
+  year={2024},
+  url={https://www.usenix.org/conference/usenixsecurity24/presentation/nayan}
+}
+
+@article{defazio2019adversarial,
+  title={Adversarial Model Extraction on Graph Neural Networks},
+  author={DeFazio, David and Ramesh, Arti},
+  journal={arXiv preprint arXiv:1912.07721},
+  year={2019},
+  url={https://arxiv.org/abs/1912.07721}
+}
+
+@inproceedings{yu2020cloudleak,
+  title={CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples},
+  author={Yu, Honggang and Yang, Kaichen and Zhang, Teng and Tsai, Yun-Yun and Ho, Tsung-Yi and Jin, Yier},
+  booktitle={NDSS Symposium},
+  year={2020},
+  url={https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/}
+}
+
+@inproceedings{rakin2022deepsteal,
+  title={DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories},
+  author={Rakin, Adnan Siraj and Chowdhuryy, Md Hafizul Islam and Yao, Fan and Fan, Deliang},
+  booktitle={2022 IEEE Symposium on Security and Privacy (SP)},
+  pages={2193--2210},
+  year={2022},
+  organization={IEEE},
+  url={https://ieeexplore.ieee.org/abstract/document/9833743}
+}
+
+@inproceedings{tang2024modelguard,
+  title={ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks},
+  author={Tang, Ruixiang and Du, Mengnan and Zhang, Yingnian and Zhang, Xin and Jain, Rajiv and Hu, Xia},
+  booktitle={31st USENIX Security Symposium (USENIX Security 24)},
+  year={2024},
+  url={https://www.usenix.org/conference/usenixsecurity24/presentation/tang}
+}
+
+@article{islam2020stealing,
+  title={Stealing Black-Box Functionality Using The Deep Neural Tree Architecture},
+  author={Islam, Md Saiful and Aich, Sanjay and Kim, Hee-Cheol},
+  journal={arXiv preprint arXiv:2002.09864},
+  year={2020},
+  url={https://arxiv.org/abs/2002.09864}
+}
+
+@inproceedings{yoshida2019model,
+  author = {Yoshida, Kota and Kubota, Takaya and Shiozaki, Mitsuru and Fujino, Takeshi},
+  title = {Model-Extraction Attack Against FPGA-DNN Accelerator Utilizing Correlation Electromagnetic Analysis},
+  booktitle = {2019 IEEE 27th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)},
+  year = {2019},
+  pages = {318--318},
+  organization = {IEEE},
+  doi = {10.1109/FCCM.2019.00051}
+}
+
+@inproceedings{chandrasekaran2018model,
+  author = {Chandrasekaran, Varun and Chaudhuri, Kamalika and Giacomelli, Irene and Jha, S. and Yan, Songbai},
+  title = {Model Extraction and Active Learning},
+  booktitle = {ArXiv},
+  year = {2018},
+  url = {https://www.semanticscholar.org/paper/Model-Extraction-and-Active-Learning-Chandrasekaran-Chaudhuri/2cb2f7c824a089422ac210b3f77d2e078b017f66}
+}
+
+@article{dai2018adversarial,
+  author = {Dai, H. and Li, Hui and Tian, Tian and Huang, Xin and Wang, L. and Zhu, Jun and Song, Le},
+  title = {Adversarial Attack on Graph Structured Data},
+  journal = {ArXiv},
+  year = {2018},
+  url = {https://www.semanticscholar.org/paper/Adversarial-Attack-on-Graph-Structured-Data-Dai-Li/7f77058976e2fe75e98280371962c43d98c98321}
+}
+
+@inproceedings{papernot2018sok,
+  author = {Papernot, Nicolas and McDaniel, Patrick and Sinha, Arunesh and Wellman, Michael P.},
+  title = {SoK: Security and Privacy in Machine Learning},
+  booktitle = {2018 IEEE European Symposium on Security and Privacy (EuroS\&P)},
+  year = {2018},
+  pages = {399--414},
+  organization = {IEEE},
+  doi = {10.1109/EuroSP.2018.00035}
+}
+
+@inproceedings{shi2018active,
+  author = {Shi, Yi and Sagduyu, Yalin E. and Davaslioglu, Kemal and Li, Jason H.},
+  title = {Active Deep Learning Attacks under Strict Rate Limitations for Online API Calls},
+  booktitle = {2018 IEEE International Symposium on Technologies for Homeland Security (HST)},
+  year = {2018},
+  pages = {1--6},
+  organization = {IEEE},
+  doi = {10.1109/THS.2018.8574124}
+}
+
+@article{cheng2018model,
+  author = {Cheng, Yu and Wang, Duo and Zhou, Pan and Zhang, Tao},
+  title = {Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges},
+  journal = {IEEE Signal Processing Magazine},
+  volume = {35},
+  number = {1},
+  pages = {126--136},
+  year = {2018},
+  doi = {10.1109/MSP.2017.2765695}
+}
+
+@inproceedings{shi2018generative,
+  author = {Shi, Yi and Sagduyu, Yalin E. and Davaslioglu, Kemal and Li, Jason H.},
+  title = {Generative Adversarial Networks for Black-Box API Attacks with Limited Training Data},
+  booktitle = {2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)},
+  year = {2018},
+  pages = {287--292},
+  organization = {IEEE},
+  doi = {10.1109/ISSPIT.2018.8642683}
+}
+
+@article{oh2018towards,
+  author = {Oh, Seong Joon and Augustin, Max and Schiele, Bernt and Fritz, Mario},
+  title = {Towards Reverse-Engineering Black-Box Neural Networks},
+  journal = {arXiv preprint arXiv:1711.01768},
+  year = {2018}
+}
+
+@inproceedings{liu2018fine,
+  author = {Liu, Kang and Dolan-Gavitt, Brendan and Garg, Siddharth},
+  title = {Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks},
+  booktitle = {Research in Attacks, Intrusions, and Defenses},
+  year = {2018},
+  publisher = {Springer}
+}
+
+@inproceedings{tramer2017ensemble,
+  author = {Tram\`{e}r, Florian and Kurakin, Alexey and Papernot, Nicolas and Boneh, D. and Mcdaniel, P.},
+  title = {Ensemble Adversarial Training: Attacks and Defenses},
+  booktitle = {ArXiv},
+  year = {2017},
+  url = {https://www.semanticscholar.org/paper/Ensemble-Adversarial-Training%3A-Attacks-and-Defenses-Tram%C3%A8r-Kurakin/136dee73f203df2f4831994bf4f0c0a4ad2e764e}
+}
+
+@article{brendel2017decision,
+  author = {Brendel, Wieland and Rauber, Jonas and Bethge, M.},
+  title = {Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models},
+  journal = {ArXiv},
+  year = {2017},
+  url = {https://www.semanticscholar.org/paper/Decision-Based-Adversarial-Attacks%3A-Reliable-Models-Brendel-Rauber/1b225474e7a5794f98cdfbde8b12ccbc56799409}
+}
+
+@inproceedings{shi2017how,
+  author = {Shi, Yi and Sagduyu, Yalin and Grushin, Alexander},
+  title = {How to steal a machine learning classifier with deep learning},
+  booktitle = {2017 IEEE International Symposium on Technologies for Homeland Security (HST)},
+  year = {2017},
+  pages = {1--5},
+  organization = {IEEE},
+  doi = {10.1109/THS.2017.7943475}
+}
+
+@inproceedings{dwork2006differential,
+  author = {Dwork, Cynthia},
+  title = {Differential Privacy},
+  booktitle = {Automata, Languages and Programming},
+  year = {2006},
+  publisher = {Springer}
+}
+
+@article{kohno2005remote,
+  author = {Kohno, T. and Broido, A. and Claffy, K.C.},
+  title = {Remote physical device fingerprinting},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  volume = {2},
+  number = {2},
+  pages = {93--108},
+  year = {2005},
+  doi = {10.1109/TDSC.2005.26}
+}
+
+@INPROCEEDINGS{Genç2023,
+  author={Genç, Didem and Özuysal, Mustafa and Tomur, Emrah},
+  booktitle={2023 IEEE International Conference on Cyber Security and Resilience (CSR)}, 
+  title={A Taxonomic Survey of Model Extraction Attacks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={200-205},
+  keywords={Surveys;Cloning;Closed box;Machine learning;Computer crime;Resilience},
+  doi={10.1109/CSR57506.2023.10224959}}
+@ARTICLE{He2023,
+  author={He, Yingzhe and Meng, Guozhu and Chen, Kai and Hu, Xingbo and He, Jinwen},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Towards Security Threats of Deep Learning Systems: A Survey}, 
+  year={2022},
+  volume={48},
+  number={5},
+  pages={1743-1770},
+  keywords={Deep learning;Security;Data models;Privacy;Predictive models;Training data;Deep learning;poisoning attack;adversarial attack;model extraction attack;model inversion attack},
+  doi={10.1109/TSE.2020.3034721}}
+
+
+@ARTICLE{De2021,
+  author={De Cristofaro, Emiliano},
+  journal={IEEE Security & Privacy}, 
+  title={A Critical Overview of Privacy in Machine Learning}, 
+  year={2021},
+  volume={19},
+  number={4},
+  pages={19-27},
+  keywords={Data models;Training;Predictive models;Training data;Privacy;Context modeling;Task analysis},
+  doi={10.1109/MSEC.2021.3076443}}
+
+
+@article{wang2024unique,
+title={Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey},
+author={Wang, Shang and Zhu, Tianqing and Liu, Bo and Ding, Ming and Guo, Xu and Ye, Dayong and Zhou, Wanlei and Yu, Philip S.},
+journal={arXiv preprint arXiv:2406.07973},
+year={2024},
+url={https://arxiv.org/abs/2406.07973}
+}
+
+@article{anand2023gpt4all,
+title={GPT4All: An Ecosystem of Open Source Compressed Language Models},
+author={Anand, Yuvanesh and Nussbaum, Zach and Treat, Adam and Miller, Aaron and Guo, Richard and Schmidt, Ben and Community, GPT4All and Duderstadt, Brandon and Mulyar, Andriy},
+journal={arXiv preprint arXiv:2311.04931},
+year={2023},
+url={https://arxiv.org/abs/2311.04931}
+}
+
+@article{carlini2024stealing,
+title={Stealing Part of a Production Language Model},
+author={Carlini, Nicholas and Paleka, Daniel and Dvijotham, Krishnamurthy and Steinke, Thomas and Hayase, Jonathan and Cooper, A. Feder and Lee, Katherine and Jagielski, Matthew and Nasr, Milad and Conmy, Arthur and Yona, Itay and Wallace, Eric and Rolnick, David and Tram{`e}r, Florian},
+journal={arXiv preprint arXiv:2403.06634},
+year={2024},
+url={https://arxiv.org/abs/2403.06634}
+}
+
+
+# Edge Computing --------------------------
+@article{shi2016edge,
+  author = {Shi, Weisong and Cao, Jie and Zhang, Quan and Li, Youhuizi and Xu, Lanyu},
+  title = {Edge Computing: Vision and Challenges},
+  journal = {IEEE Internet of Things Journal},
+  year = {2016},
+  volume = {3},
+  number = {5},
+  pages = {637--646}
+}
+
+@article{satyanarayanan2017emergence,
+  author = {Satyanarayanan, Mahadev},
+  title = {The Emergence of Edge Computing},
+  journal = {Computer},
+  year = {2017},
+  volume = {50},
+  number = {1},
+  pages = {30--39}
+}
+
+@inproceedings{bonomi2012fog,
+  author = {Bonomi, Flavio and Milito, Rodolfo and Zhu, Jiang and Addepalli, Sateesh},
+  title = {Fog Computing and Its Role in the Internet of Things},
+  booktitle = {Proceedings of the First Edition of the MCC Workshop on Mobile Cloud Computing},
+  year = {2012},
+  pages = {13--16}
+}
+
+@article{ahmed2017role,
+  author = {Ahmed, Ejaz and Yaqoob, Ibrar and Hashem, Ibrahim Abaker Targio and Khan, Imran and Ahmed, Abdelmuttlib Ibrahim Abdalla and Imran, Muhammad and Vasilakos, Athanasios V.},
+  title = {The Role of Big Data Analytics in Internet of Things},
+  journal = {Computer Networks},
+  year = {2017},
+  volume = {129},
+  pages = {459--471}
+}
+
+@techreport{manzalini2018edge,
+  author = {Manzalini, Antonio and others},
+  title = {Edge Computing: A Market Snapshot},
+  institution = {5G Infrastructure Association},
+  year = {2018},
+  type = {White Paper}
+}
+
+@article{taleb2017multi,
+  author = {Taleb, Tarik and Samdanis, Konstantinos and Mada, Badr and Flinck, Hannu and Dutta, Sunny and Sabella, Dario},
+  title = {On Multi-Access Edge Computing: A Survey of the Emerging 5G Network Edge Cloud Architecture and Orchestration},
+  journal = {IEEE Communications Surveys \& Tutorials},
+  year = {2017},
+  volume = {19},
+  number = {3},
+  pages = {1657--1681}
+}
+
+@article{khan2019edge,
+  author = {Khan, Wazir Zada and Ahmed, Ejaz and Hakak, Saqib and Yaqoob, Ibrar and Ahmed, Arif},
+  title = {Edge Computing: A Survey},
+  journal = {Future Generation Computer Systems},
+  year = {2019},
+  volume = {97},
+  pages = {219--235}
+}
+
+@article{mao2017survey,
+  author = {Mao, Yuyi and You, Changsheng and Zhang, Jun and Huang, Kaibin and Letaief, Khaled B.},
+  title = {A Survey on Mobile Edge Computing: The Communication Perspective},
+  journal = {IEEE Communications Surveys \& Tutorials},
+  year = {2017},
+  volume = {19},
+  number = {4},
+  pages = {2322--2358}
+}
+
+@article{garcia2015edge,
+  author = {Garcia Lopez, Pedro and Montresor, Alberto and Epema, Dick and Datta, Anwitaman and Higashino, Teruo and Iamnitchi, Adriana and Barcellos, Marinho and Felber, Pascal and Riviere, Etienne},
+  title = {Edge-centric Computing: Vision and Challenges},
+  journal = {ACM SIGCOMM Computer Communication Review},
+  year = {2015},
+  volume = {45},
+  number = {5},
+  pages = {37--42}
+}
+
+@article{chiang2016fog,
+  author = {Chiang, Mung and Zhang, Tao},
+  title = {Fog and IoT: An Overview of Research Opportunities},
+  journal = {IEEE Internet of Things Journal},
+  year = {2016},
+  volume = {3},
+  number = {6},
+  pages = {854--864}
+}
+
+@INPROCEEDINGS{Abbasov2014cloud,
+  author={Abbasov, Babak},
+  booktitle={2014 IEEE 8th International Conference on Application of Information and Communication Technologies (AICT)}, 
+  title={Cloud computing: State of the art reseach issues}, 
+  year={2014},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Cloud computing;Resource management;Computational modeling;Servers;Computers;Security;Conferences;cloud computing;services;SaaS;cloud resource management},
+  doi={10.1109/ICAICT.2014.7035932}}
+
+
+#------------------------------------------
+#----federated learning--------------------
+@inproceedings{mcmahan2017communication,
+  author = {McMahan, Brendan and Moore, Eider and Ramage, Daniel and Hampson, Seth and y Arcas, Blaise Aguera},
+  title = {Communication-Efficient Learning of Deep Networks from Decentralized Data},
+  year = {2017},
+  isbn = {9781510841352},
+  publisher = {PMLR},
+  booktitle = {Proceedings of the 20th International Conference on Artificial Intelligence and Statistics},
+  pages = {1273--1282},
+  series = {Proceedings of Machine Learning Research},
+  volume = {54}
+}
+
+@article{kairouz2019advances,
+  author = {Kairouz, Peter and McMahan, H. Brendan and Avent, Brendan and Bellet, Aur\'{e}lien and Bennis, Mehdi and Bhagoji, Arjun Nitin and Bonawitz, Keith and Charles, Zachary and Cormode, Graham and Cummings, Rachel and others},
+  title = {Advances and Open Problems in Federated Learning},
+  year = {2019},
+  journal = {arXiv preprint arXiv:1912.04977}
+}
+
+@article{li2020federated,
+  author = {Li, Qinbin and Wen, Zeyi and Wu, Zhaomin and Hu, Shaobo and Wang, Ning and Li, Yuan and Liu, Xu and He, Bingsheng},
+  title = {A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection},
+  year = {2020},
+  journal = {arXiv preprint arXiv:1907.09693}
+}
+
+@inproceedings{zhao2018federated,
+  author = {Zhao, Yue and Li, Meng and Lai, Liangzhen and Suda, Naveen and Civin, Damon and Chandra, Vikas},
+  title = {Federated Learning with Non-IID Data},
+  year = {2018},
+  publisher = {arXiv},
+  booktitle = {arXiv preprint arXiv:1806.00582}
+}
+
+@inproceedings{konecny2016federated,
+  author = {Kone\v{c}n\'{y}, Jakub and McMahan, H. Brendan and Yu, Felix X. and Richt\'{a}rik, Peter and Suresh, Ananda Theertha and Bacon, Dave},
+  title = {Federated Learning: Strategies for Improving Communication Efficiency},
+  year = {2016},
+  publisher = {arXiv},
+  booktitle = {arXiv preprint arXiv:1610.05492}
+}
+
+@inproceedings{bagdasaryan2020backdoor,
+  author = {Bagdasaryan, Eugene and Veit, Andreas and Hua, Yiqing and Estrin, Deborah and Shmatikov, Vitaly},
+  title = {How To Backdoor Federated Learning},
+  year = {2020},
+  isbn = {9781713820208},
+  publisher = {PMLR},
+  booktitle = {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics},
+  pages = {2938--2948},
+  series = {Proceedings of Machine Learning Research},
+  volume = {108}
+}
+
+@inproceedings{fallah2020personalized,
+  author = {Fallah, Alireza and Mokhtari, Aryan and Ozdaglar, Asuman},
+  title = {Personalized Federated Learning: A Meta-Learning Approach},
+  year = {2020},
+  publisher = {arXiv},
+  booktitle = {arXiv preprint arXiv:2002.07948}
+}
+
+@inproceedings{bonawitz2017practical,
+  author = {Bonawitz, Keith and Ivanov, Vladimir and Kreuter, Ben and Marcedone, Antonio and McMahan, H. Brendan and Patel, Sarvar and Ramage, Daniel and Segal, Aaron and Seth, Karn},
+  title = {Practical Secure Aggregation for Privacy-Preserving Machine Learning},
+  year = {2017},
+  isbn = {9781450349468},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3133956.3133982},
+  doi = {10.1145/3133956.3133982},
+  booktitle = {Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security},
+  pages = {1175–1191},
+  numpages = {17},
+  series = {CCS '17}
+}
+#-------------------Federated Learning----------------------------
+@article{jagielski2020high,
+  title={High accuracy and high fidelity extraction of neural networks},
+  author={Jagielski, Matthew and Carlini, Nicholas and Berthelot, David and Kurakin, Alex and Papernot, Nicolas},
+  journal={In 29th USENIX Security Symposium (USENIX Security 20)},
+  pages={1345--1362},
+  year={2020},
+  url={https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski}
+}
+
+@article{liang2023model,
+  title={Model Extraction Attacks Revisited},
+  author={Liang, Jiacheng and Li, Changjiang and Pang, Ren and Wang, Ting},
+  journal={arXiv preprint arXiv:2312.05386},
+  year={2023},
+  url={https://arxiv.org/abs/2312.05386}
+}
+
+#-------------------Knowledge Distillation-----------------------------
+@article{hinton2015distilling,
+  title={Distilling the knowledge in a neural network},
+  author={Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
+  journal={arXiv preprint arXiv:1503.02531},
+  year={2015},
+  url={https://arxiv.org/abs/1503.02531}
+}
+
+@article{gou2021knowledge,
+  title={Knowledge distillation: A survey},
+  author={Gou, Jianping and Yu, Baosheng and Maybank, Stephen J and Tao, Dacheng},
+  journal={International Journal of Computer Vision},
+  volume={129},
+  pages={1789--1819},
+  year={2021},
+  publisher={Springer},
+  url={https://link.springer.com/article/10.1007/s11263-021-01453-z}
+}
+
+@inproceedings{romero2015fitnets,
+  title={FitNets: Hints for thin deep nets},
+  author={Romero, Adriana and Ballas, Nicolas and Kahou, Samira Ebrahimi and Chassang, Antoine and Gatta, Carlo and Bengio, Yoshua},
+  booktitle={International Conference on Learning Representations},
+  year={2015},
+  url={https://arxiv.org/abs/1412.6550}
+}
+
+@inproceedings{zagoruyko2017paying,
+  title={Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer},
+  author={Zagoruyko, Sergey and Komodakis, Nikos},
+  booktitle={International Conference on Learning Representations},
+  year={2017},
+  url={https://arxiv.org/abs/1612.03928}
+}
+
+@inproceedings{park2019relational,
+  title={Relational knowledge distillation},
+  author={Park, Wonpyo and Kim, Dongju and Lu, Yan and Cho, Minsu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3967--3976},
+  year={2019},
+  url={https://openaccess.thecvf.com/content_CVPR_2019/html/Park_Relational_Knowledge_Distillation_CVPR_2019_paper.html}
+}
+
+@inproceedings{tung2019similarity,
+  title={Similarity-preserving knowledge distillation},
+  author={Tung, Frederick and Mori, Greg},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1365--1374},
+  year={2019},
+  url={https://openaccess.thecvf.com/content_ICCV_2019/html/Tung_Similarity-Preserving_Knowledge_Distillation_ICCV_2019_paper.html}
+}
+
+@inproceedings{kariyappa2021maze,
+  title={MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation},
+  author={Kariyappa, Sanjay and Prakash, Atul and Qureshi, Moinuddin K},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1685--1694},
+  year={2021}
+}
+
+@inproceedings{xu2018training,
+  title={Training shallow and thin networks for acceleration via knowledge distillation with conditional adversarial networks},
+  author={Xu, Zheng and Hsu, Yen-Chang and Huang, Jiawei},
+  booktitle={International Conference on Learning Representations Workshop},
+  year={2018},
+  url={https://arxiv.org/pdf/1709.00513}
+}
+
+@article{wu2023fedcache,
+  title={FedCache: A Knowledge Cache-driven Federated Learning Architecture for Personalized Edge Intelligence},
+  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Xu, Ke and Wang, Wen and Jiang, Xuefeng and Gao, Bo and Lu, Jinda},
+  journal={arXiv preprint arXiv:2308.07816},
+  year={2023},
+  url={https://arxiv.org/abs/2308.07816}
+}
+
+@article{pan2024fedcache,
+  title={FedCache 2.0: Exploiting the Potential of Distilled Data in Knowledge Cache-driven Federated Learning},
+  author={Pan, Quyang and Sun, Sheng and Wu, Zhiyuan and Wang, Yuwei and Liu, Min and Gao, Bo},
+  journal={arXiv preprint arXiv:2405.13378},
+  year={2024},
+  url={https://arxiv.org/abs/2405.13378}
+}
+
+@article{wu2024fedict,
+  title={FedICT: Federated Multi-task Distillation for Multi-access Edge Computing},
+  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Pan, Quyang and Jiang, Xuefeng and Gao, Bo},
+  journal={arXiv preprint arXiv:2301.00389},
+  year={2024},
+  url={https://arxiv.org/abs/2301.00389}
+}
+
+@article{wu2023knowledge,
+  title={Knowledge Distillation in Federated Edge Learning: A Survey},
+  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Jiang, Xuefeng and Li, Runhan and Gao, Bo},
+  journal={arXiv preprint arXiv:2301.05849},
+  year={2023},
+  url={https://arxiv.org/abs/2301.05849}
+}
+#-------------------------------------
+
+@article{Falade_2023,
+   title={Decoding the Threat Landscape : ChatGPT, FraudGPT, and WormGPT in Social Engineering Attacks},
+   ISSN={2456-3307},
+   url={http://dx.doi.org/10.32628/CSEIT2390533},
+   DOI={10.32628/cseit2390533},
+   journal={International Journal of Scientific Research in Computer Science, Engineering and Information Technology},
+   publisher={Technoscience Academy},
+   author={Falade, Polra Victor},
+   year={2023},
+   month=oct, pages={185–198} }
+
+@inproceedings{Hu2020DeepSniffer,
+author = {Hu, Xing and Liang, Ling and Li, Shuangchen and Deng, Lei and Zuo, Pengfei and Ji, Yu and Xie, Xinfeng and Ding, Yufei and Liu, Chang and Sherwood, Timothy and Xie, Yuan},
+title = {DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints},
+year = {2020},
+isbn = {9781450371025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3373376.3378460},
+doi = {10.1145/3373376.3378460},
+pages = {385–399},
+numpages = {15},
+series = {ASPLOS '20}
+}
