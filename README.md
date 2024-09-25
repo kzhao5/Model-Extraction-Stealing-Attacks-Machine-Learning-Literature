@@ -24,7 +24,7 @@ Papers are sorted by their released dates in descending order.
 | 2022 | Privacy and Robustness in Federated Learning: Attacks and Defenses | IEEE Transactions on Neural Networks and Learning Systems | [Link](https://ieeexplore.ieee.org/abstract/document/9945997?casa_token=x9pGEwKp2ocAAAAA:hln9lI37WYKjlaMyIM6J1CaBM_UzTUw3EeIARefaHEbzXXSEPyQt0tPFuREPlvtTBIiUpoVYQj0) | |
 | 2022 | Towards Security Threats of Deep Learning Systems: A Survey | IEEE Transactions on Software Engineering | [Link](https://ieeexplore.ieee.org/document/9252914) | |
 | 2021 | A Critical Overview of Privacy in Machine Learning | IEEE Security & Privacy | [Link](https://ieeexplore.ieee.org/abstract/document/9433648?casa_token=3sYP7jF9ZSsAAAAA:AsdWPPO6SrWSz_6WgXoB-EIaaqbRSvZBdPyWICAXqmykYteyt-DRplHFXvmedAOQpfboF60T) | |
-| 2021 | Machine Learning–based Cyber Attacks Targeting on Controlled Information: A Survey | ACM Computing Surveys | [Link](https://doi.org/10.1145/3465171) | |
+| 2021 | When Machine Learning Meets Privacy: A Survey and Outlook | ACM Computing Surveys | [Link]([https://doi.org/10.1145/3465171](https://dl.acm.org/doi/abs/10.1145/3436755)) | |
 
 ## Model Extraction Attack
 
